@@ -1,0 +1,5 @@
+-> EXPLANATION
+    ->The evaluation metric becomes one if you make the clustering perfect, which means that one can assign close points to one cluster and       distant points to different cluster. So I mapped the data such that half examples are mapped to zero and other half to one, which can       be done by using "max_features=1" in TfIdf.
+
+-> TOOLS USED
+    -> Scikit-learn's K-Means Clustering Algorithm, and TfIdf Vectorizer and matplotlib module for visualization. Everything was coded in        Jupyter Notebook IDE.
