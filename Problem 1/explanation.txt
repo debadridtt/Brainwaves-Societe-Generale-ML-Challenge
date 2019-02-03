@@ -1,0 +1,12 @@
+Work Process:
+
+-> Used Google Api free credits to convert the no. of non-English rows (Consumer-Complaint-Summary) to English, some cannot be converted (noneng_eng.ipynb) and (dataset_form.ipynb) and came out to be null so filled them with "Missing"
+-> Next fixed the imbalance problem with over-sampling
+-> Used tfidf vectorizer with n-gram, unigram and bigram, and made features in form of sparse matrix from there
+-> Next created some meta-features like, no. of punctuations, titles, upper words, no. of unique words, total words, etc. from the unconverted text column to maintain the origanility of the meta-features
+-> Next label encoded the categorical features and the numerical features, and made a sparse matrix of them as well and concatenated these features with the tfidf features
+-> Next all the features were fed into the algorithm (LightGBM), evaluated the score through cross-validation and finally produced the prediction file.
+
+Tools used:
+
+-> Sci-kit learn, lightgbm, scipy
