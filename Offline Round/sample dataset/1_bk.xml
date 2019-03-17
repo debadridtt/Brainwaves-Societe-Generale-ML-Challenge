@@ -1,0 +1,2017 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 11" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1031" t="393" r="1480" b="528"><region><rect l="1031" t="393" r="1480" b="528"/></region>
+<text>
+<par align="Justified">
+<line baseline="512" l="1031" t="394" r="1478" b="526"><formatting lang="EnglishUnitedStates">ISDA</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1480" t="475" r="1522" b="522"><region><rect l="1480" t="475" r="1522" b="522"/></region>
+<text>
+<par align="Justified">
+<line baseline="524" l="1481" t="476" r="1521" b="521"><formatting lang="EnglishUnitedStates">-&gt;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="732" t="567" r="1813" b="625"><region><rect l="732" t="567" r="1813" b="625"/></region>
+<text>
+<par align="Justified">
+<line baseline="609" l="738" t="573" r="1807" b="619"><formatting lang="EnglishUnitedStates">International Swaps and Derivatives Association, Inc.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="987" t="677" r="1564" b="978"><region><rect l="987" t="677" r="1564" b="978"/></region>
+<text>
+<par align="Center" lineSpacing="1608">
+<line baseline="723" l="1127" t="683" r="1427" b="724"><formatting lang="EnglishUnitedStates">SCHEDULE</formatting></line>
+<line baseline="790" l="1210" t="748" r="1339" b="790"><formatting lang="EnglishUnitedStates">to the</formatting></line></par>
+<par align="Justified" lineSpacing="1608">
+<line baseline="856" l="993" t="816" r="1558" b="869"><formatting lang="EnglishUnitedStates">2002 Master Agreement</formatting></line></par>
+<par align="Center">
+<line baseline="963" l="1043" t="930" r="1506" b="972"><formatting lang="EnglishUnitedStates">dated as of May 15, 2017</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1190" t="1028" r="1361" b="1072"><region><rect l="1190" t="1028" r="1361" b="1072"/></region>
+<text>
+<par align="Justified">
+<line baseline="1065" l="1196" t="1034" r="1355" b="1066"><formatting lang="EnglishUnitedStates">Between</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="606" t="1183" r="1177" b="1235"><region><rect l="606" t="1183" r="1177" b="1235"/></region>
+<text>
+<par align="Justified">
+<line baseline="1222" l="612" t="1189" r="1171" b="1229"><formatting lang="EnglishUnitedStates">CAPITAL SERVICES, INC.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1251" t="1183" r="1328" b="1228"><region><rect l="1251" t="1183" r="1328" b="1228"/></region>
+<text>
+<par align="Justified">
+<line baseline="1222" l="1257" t="1189" r="1322" b="1222"><formatting lang="EnglishUnitedStates">and</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1515" t="1183" r="1994" b="1228"><region><rect l="1515" t="1183" r="1994" b="1228"/></region>
+<text>
+<par align="Justified">
+<line baseline="1221" l="1521" t="1189" r="1988" b="1222"><formatting lang="EnglishUnitedStates">societe generale</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="768" t="1287" r="988" b="1341"><region><rect l="768" t="1287" r="988" b="1341"/></region>
+<text>
+<par align="Justified">
+<line baseline="1326" l="774" t="1293" r="982" b="1335"><formatting lang="EnglishUnitedStates">(“Party A”)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1684" t="1287" r="1901" b="1341"><region><rect l="1684" t="1287" r="1901" b="1341"/></region>
+<text>
+<par align="Justified">
+<line baseline="1326" l="1690" t="1293" r="1895" b="1335"><formatting lang="EnglishUnitedStates">(“Party B”)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="295" t="1394" r="932" b="1439"><region><rect l="295" t="1394" r="932" b="1439"/></region>
+<text>
+<par align="Justified">
+<line baseline="1433" l="301" t="1400" r="926" b="1433"><formatting lang="EnglishUnitedStates">Part 1. Termination Provisions.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1496" r="505" b="1549"><region><rect l="446" t="1496" r="505" b="1549"/></region>
+<text>
+<par align="Justified">
+<line baseline="1535" l="452" t="1502" r="499" b="1543"><formatting lang="EnglishUnitedStates">(a)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="1496" r="1084" b="1550"><region><rect l="596" t="1496" r="1084" b="1550"/></region>
+<text>
+<par align="Justified">
+<line baseline="1535" l="602" t="1502" r="1078" b="1544"><formatting lang="EnglishUnitedStates">“Specified Entity” means</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1598" r="1338" b="1652"><region><rect l="595" t="1598" r="1338" b="1652"/></region>
+<text>
+<par align="Justified">
+<line baseline="1637" l="601" t="1604" r="1332" b="1646"><formatting lang="EnglishUnitedStates">in relation to Party A for the purpose of:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="597" t="1701" r="1015" b="1912"><region><rect l="597" t="1701" r="1015" b="1912"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="1740" l="603" t="1707" r="886" b="1748"><formatting lang="EnglishUnitedStates">Section 5(a)(v),</formatting></line>
+<line baseline="1792" l="603" t="1759" r="899" b="1800"><formatting lang="EnglishUnitedStates">Section 5(a)(vi),</formatting></line>
+<line baseline="1845" l="603" t="1812" r="911" b="1853"><formatting lang="EnglishUnitedStates">Section 5(a)(vii),</formatting></line>
+<line baseline="1898" l="603" t="1865" r="1009" b="1906"><formatting lang="EnglishUnitedStates">Section 5(b)(v), None.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1241" t="1701" r="1512" b="1858"><region><rect l="1241" t="1701" r="1512" b="1858"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1739" l="1246" t="1707" r="1509" b="1749"><formatting lang="EnglishUnitedStates">Financial, Inc.</formatting></line>
+<line baseline="1792" l="1246" t="1759" r="1506" b="1801"><formatting lang="EnglishUnitedStates">Financial, Inc.</formatting></line>
+<line baseline="1845" l="1248" t="1812" r="1506" b="1854"><formatting lang="EnglishUnitedStates">Financial, Inc.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1962" r="1335" b="2016"><region><rect l="595" t="1962" r="1335" b="2016"/></region>
+<text>
+<par align="Justified">
+<line baseline="2001" l="601" t="1968" r="1329" b="2010"><formatting lang="EnglishUnitedStates">in relation to Party B for the purpose of:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="597" t="2062" r="1027" b="2268"><region><rect l="597" t="2062" r="1027" b="2268"/></region>
+<text>
+<par lineSpacing="1224">
+<line baseline="2101" l="603" t="2068" r="996" b="2109"><formatting lang="EnglishUnitedStates">Section 5(a)(v), None</formatting></line>
+<line baseline="2151" l="603" t="2118" r="1009" b="2159"><formatting lang="EnglishUnitedStates">Section 5(a)(vi), None</formatting></line>
+<line baseline="2204" l="603" t="2171" r="1021" b="2212"><formatting lang="EnglishUnitedStates">Section 5(a)(vii), None</formatting></line>
+<line baseline="2254" l="603" t="2206" r="998" b="2262"><formatting lang="EnglishUnitedStates">Section 5(b)(v), None</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2317" r="508" b="2370"><region><rect l="446" t="2317" r="508" b="2370"/></region>
+<text>
+<par align="Justified">
+<line baseline="2355" l="452" t="2323" r="502" b="2364"><formatting lang="EnglishUnitedStates">(b)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="2317" r="2250" b="2424"><region><rect l="594" t="2317" r="2250" b="2424"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="2356" l="603" t="2323" r="2244" b="2365"><formatting lang="EnglishUnitedStates">“Specified Transaction” will have the meaning specified in Section 14 of this</formatting></line>
+<line baseline="2409" l="600" t="2376" r="811" b="2418"><formatting lang="EnglishUnitedStates">Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2473" r="505" b="2526"><region><rect l="446" t="2473" r="505" b="2526"/></region>
+<text>
+<par align="Justified">
+<line baseline="2511" l="452" t="2479" r="499" b="2520"><formatting lang="EnglishUnitedStates">(c)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="2473" r="2264" b="2623"><region><rect l="593" t="2473" r="2264" b="2623"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2512" l="606" t="2479" r="2258" b="2521"><formatting lang="EnglishUnitedStates">The “Cross Default” provisions of Section 5(a)(vi) of this Agreement will apply to Party</formatting></line>
+<line baseline="2564" l="600" t="2531" r="2257" b="2573"><formatting lang="EnglishUnitedStates">A and Party B. Section 5(a)(vi) shall be amended by adding the following at the end</formatting></line>
+<line baseline="2617" l="599" t="2584" r="738" b="2617"><formatting lang="EnglishUnitedStates">thereof:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="2681" r="2265" b="2945"><region><rect l="593" t="2681" r="2265" b="2945"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2719" l="602" t="2687" r="2259" b="2729"><formatting lang="EnglishUnitedStates">“provided, however, that, notwithstanding the foregoing, an Event of Default shall not occur</formatting></line>
+<line baseline="2771" l="600" t="2739" r="2258" b="2780"><formatting lang="EnglishUnitedStates">under either (1) or (2) above if (I) the default, or other similar event or condition referred</formatting></line>
+<line baseline="2825" l="599" t="2792" r="2258" b="2834"><formatting lang="EnglishUnitedStates">to in (1) or the failure to pay referred to in (2) is a failure to pay or deliver caused by an</formatting></line>
+<line baseline="2878" l="601" t="2845" r="2257" b="2887"><formatting lang="EnglishUnitedStates">error or omission of an administrative or operational nature, and (II) funds or the asset to</formatting></line>
+<line baseline="2930" l="600" t="2897" r="2076" b="2939"><formatting lang="EnglishUnitedStates">be delivered were available to such party to enable it to make the relevant</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1246" t="3046" r="1305" b="3091"><region><rect l="1246" t="3046" r="1305" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1252" t="3052" r="1299" b="3085"><formatting lang="EnglishUnitedStates">29</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="620" t="2723" r="784" b="2726"><region><rect l="620" t="2723" r="784" b="2726"/></region>
+<separator type="Black" thickness="3"><start x="620" y="2724"/><end x="784" y="2724"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="803" t="2723" r="959" b="2726"><region><rect l="803" t="2723" r="959" b="2726"/></region>
+<separator type="Black" thickness="3"><start x="803" y="2724"/><end x="959" y="2724"/>
+</separator>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="304" r="2264" b="463"><region><rect l="594" t="304" r="2264" b="463"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="343" l="600" t="310" r="2256" b="352"><formatting lang="EnglishUnitedStates">payment or delivery when due and (III) such payment or delivery is made within three (3)</formatting></line>
+<line baseline="395" l="601" t="362" r="2258" b="404"><formatting lang="EnglishUnitedStates">Local Business Days following receipt of written notice from an interested party of such</formatting></line>
+<line baseline="448" l="601" t="415" r="875" b="457"><formatting lang="EnglishUnitedStates">failure to pay.”</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="511" r="508" b="564"><region><rect l="446" t="511" r="508" b="564"/></region>
+<text>
+<par align="Justified">
+<line baseline="549" l="452" t="517" r="502" b="558"><formatting lang="EnglishUnitedStates">(d)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="511" r="2263" b="671"><region><rect l="594" t="511" r="2263" b="671"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="550" l="612" t="517" r="2257" b="559"><formatting lang="EnglishUnitedStates">“Specified Indebtedness” shall have the meaning specified in Section 14 of this</formatting></line>
+<line baseline="603" l="600" t="570" r="2257" b="612"><formatting lang="EnglishUnitedStates">Agreement, but shall exclude indebtedness in respect of deposits received by a party in the</formatting></line>
+<line baseline="656" l="601" t="623" r="1326" b="665"><formatting lang="EnglishUnitedStates">ordinary course of its banking business.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="719" r="505" b="772"><region><rect l="446" t="719" r="505" b="772"/></region>
+<text>
+<par align="Justified">
+<line baseline="757" l="452" t="725" r="499" b="766"><formatting lang="EnglishUnitedStates">(e)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="719" r="2270" b="1142"><region><rect l="594" t="719" r="2270" b="1142"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="758" l="629" t="725" r="2259" b="767"><formatting lang="EnglishUnitedStates">“Threshold Amount” means with respect to Party A, an amount equal to 3% of such</formatting></line>
+<line baseline="811" l="600" t="778" r="2258" b="820"><formatting lang="EnglishUnitedStates">party’s Credit Support Provider’s shareholders’ equity (determined in accordance with</formatting></line>
+<line baseline="864" l="600" t="831" r="2264" b="873"><formatting lang="EnglishUnitedStates">generally accepted accounting principles in such Credit Support Provider’s jurisdiction of</formatting></line>
+<line baseline="916" l="601" t="883" r="2258" b="925"><formatting lang="EnglishUnitedStates">incorporation or organization) as of the end of such Credit Support Provider’s most recently</formatting></line>
+<line baseline="969" l="601" t="936" r="2257" b="978"><formatting lang="EnglishUnitedStates">completed fiscal year, and with respect to Party B, an amount equal to 3% of Party B’s</formatting></line>
+<line baseline="1022" l="602" t="989" r="2258" b="1031"><formatting lang="EnglishUnitedStates">shareholders’ equity (determined in accordance with generally accepted accounting</formatting></line>
+<line baseline="1074" l="600" t="1042" r="2264" b="1084"><formatting lang="EnglishUnitedStates">principles in such party’s jurisdiction of incorporation or organization) as at the end of</formatting></line>
+<line baseline="1127" l="601" t="1094" r="1316" b="1136"><formatting lang="EnglishUnitedStates">its most recently completed fiscal year.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1191" r="500" b="1244"><region><rect l="446" t="1191" r="500" b="1244"/></region>
+<text>
+<par align="Justified">
+<line baseline="1238" l="452" t="1197" r="494" b="1238"><formatting lang="EnglishUnitedStates">(f)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1191" r="2250" b="1295"><region><rect l="595" t="1191" r="2250" b="1295"/></region>
+<text>
+<par align="Justified" lineSpacing="1200">
+<line baseline="1230" l="601" t="1197" r="2244" b="1239"><formatting lang="EnglishUnitedStates">The “Credit Event Upon Merger” provisions of Section 5(b)(v) will apply to Party A</formatting></line>
+<line baseline="1280" l="601" t="1247" r="828" b="1289"><formatting lang="EnglishUnitedStates">and Party B.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1344" r="507" b="1398"><region><rect l="446" t="1344" r="507" b="1398"/></region>
+<text>
+<par align="Justified">
+<line baseline="1382" l="452" t="1350" r="501" b="1392"><formatting lang="EnglishUnitedStates">(g)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="1344" r="2266" b="1767"><region><rect l="594" t="1344" r="2266" b="1767"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1383" l="611" t="1350" r="2260" b="1392"><formatting lang="EnglishUnitedStates">The “Automatic Early Termination” provisions of Section 6(a) will not apply to either</formatting></line>
+<line baseline="1436" l="600" t="1403" r="2256" b="1445"><formatting lang="EnglishUnitedStates">party; provided, however, where the Event of Default specified in Section 5(a)(vii)(1),</formatting></line>
+<line baseline="1489" l="602" t="1456" r="2259" b="1498"><formatting lang="EnglishUnitedStates">(3), (4), (5), (6) or the extent analogous thereto, (8) of the Agreement, is governed by a</formatting></line>
+<line baseline="1541" l="602" t="1508" r="2257" b="1550"><formatting lang="EnglishUnitedStates">system of law which does not permit termination to take place after the occurrence of the</formatting></line>
+<line baseline="1594" l="601" t="1561" r="2259" b="1603"><formatting lang="EnglishUnitedStates">relevant Event of Default or permits such termination only with prior approval of a</formatting></line>
+<line baseline="1647" l="600" t="1614" r="2259" b="1656"><formatting lang="EnglishUnitedStates">person or party other than the Non-Defaulting Party, then the Automatic Early</formatting></line>
+<line baseline="1699" l="601" t="1666" r="2257" b="1708"><formatting lang="EnglishUnitedStates">Termination provision of Section 6(a) of the Agreement will, to the extent allowable</formatting></line>
+<line baseline="1752" l="600" t="1719" r="1626" b="1761"><formatting lang="EnglishUnitedStates">under then-current law, apply to Party A and to Party B.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1816" r="508" b="1869"><region><rect l="446" t="1816" r="508" b="1869"/></region>
+<text>
+<par align="Justified">
+<line baseline="1854" l="452" t="1822" r="502" b="1863"><formatting lang="EnglishUnitedStates">(h)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="597" t="1816" r="1636" b="1870"><region><rect l="597" t="1816" r="1636" b="1870"/></region>
+<text>
+<par align="Justified">
+<line baseline="1855" l="603" t="1822" r="1630" b="1864"><formatting lang="EnglishUnitedStates">“Termination Currency” means United States Dollars.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1919" r="498" b="1972"><region><rect l="446" t="1919" r="498" b="1972"/></region>
+<text>
+<par align="Justified">
+<line baseline="1957" l="452" t="1925" r="492" b="1966"><formatting lang="EnglishUnitedStates">(i)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1919" r="2251" b="2017"><region><rect l="595" t="1919" r="2251" b="2017"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1958" l="601" t="1925" r="2245" b="1967"><formatting lang="EnglishUnitedStates">Additional Termination Events. The following shall each constitute an Additional</formatting></line>
+<line baseline="2010" l="601" t="1978" r="957" b="2020"><formatting lang="EnglishUnitedStates">Termination Event:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="2074" r="658" b="2127"><region><rect l="596" t="2074" r="658" b="2127"/></region>
+<text>
+<par align="Justified">
+<line baseline="2112" l="602" t="2080" r="652" b="2121"><formatting lang="EnglishUnitedStates">(1)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="745" t="2074" r="2250" b="2178"><region><rect l="745" t="2074" r="2250" b="2178"/></region>
+<text>
+<par align="Justified" lineSpacing="1176">
+<line baseline="2113" l="751" t="2080" r="2244" b="2122"><formatting lang="EnglishUnitedStates">The following shall constitute an Additional Termination Event with respect to</formatting></line>
+<line baseline="2163" l="751" t="2130" r="904" b="2172"><formatting lang="EnglishUnitedStates">Party A:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="744" t="2227" r="2266" b="2650"><region><rect l="744" t="2227" r="2266" b="2650"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2266" l="752" t="2233" r="2259" b="2275"><formatting lang="EnglishUnitedStates">(a) The rating issued by Standard &amp; Poor’s Rating Service, or its successor or</formatting></line>
+<line baseline="2319" l="751" t="2286" r="2257" b="2328"><formatting lang="EnglishUnitedStates">assign (“S&amp;P”) or Moody’s Investors Service, Inc., or its successor or assign</formatting></line>
+<line baseline="2372" l="752" t="2339" r="2258" b="2381"><formatting lang="EnglishUnitedStates">(“Moody’s”) with respect to the long-term, senior unsecured, unsubordinated</formatting></line>
+<line baseline="2424" l="751" t="2391" r="2257" b="2433"><formatting lang="EnglishUnitedStates">debt securities (“Debt Securities”) of Party A’s Credit Support Provider is rated</formatting></line>
+<line baseline="2477" l="750" t="2444" r="2260" b="2486"><formatting lang="EnglishUnitedStates">below BBB- in the case of S&amp;P or Baa3 in the case of Moody’s or (b) S&amp;P or</formatting></line>
+<line baseline="2530" l="751" t="2497" r="2257" b="2539"><formatting lang="EnglishUnitedStates">Moody’s ceases to issue a rating with respect to the Debt Securities of Party A’s</formatting></line>
+<line baseline="2582" l="752" t="2549" r="2257" b="2591"><formatting lang="EnglishUnitedStates">Credit Support Provider (provided that such rating agency continues to be in the</formatting></line>
+<line baseline="2635" l="750" t="2602" r="1388" b="2644"><formatting lang="EnglishUnitedStates">business of rating Debt Securities).</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="744" t="2701" r="2265" b="2957"><region><rect l="744" t="2701" r="2265" b="2957"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2740" l="750" t="2707" r="2258" b="2749"><formatting lang="EnglishUnitedStates">For the purpose of the foregoing Additional Termination Event, the Affected</formatting></line>
+<line baseline="2793" l="751" t="2760" r="2256" b="2802"><formatting lang="EnglishUnitedStates">Party will be Party A and all outstanding Transactions will be deemed to be</formatting></line>
+<line baseline="2845" l="750" t="2812" r="2259" b="2854"><formatting lang="EnglishUnitedStates">Affected Transactions, save for the purpose of calculating the Close-out Amount</formatting></line>
+<line baseline="2897" l="750" t="2865" r="2257" b="2907"><formatting lang="EnglishUnitedStates">under Section 6(e)(ii)(2) only, for which purpose Party A and Party B shall both be</formatting></line>
+<line baseline="2951" l="750" t="2918" r="2002" b="2951"><formatting lang="EnglishUnitedStates">Affected Parties and all Transactions shall be Affected Transactions.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1305" b="3091"><region><rect l="1247" t="3046" r="1305" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1299" b="3085"><formatting lang="EnglishUnitedStates">30</formatting></line></par>
+</text>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="354" r="658" b="407"><region><rect l="596" t="354" r="658" b="407"/></region>
+<text>
+<par align="Justified">
+<line baseline="398" l="602" t="360" r="652" b="401"><formatting lang="EnglishUnitedStates">(2)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="745" t="354" r="2250" b="461"><region><rect l="745" t="354" r="2250" b="461"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="393" l="751" t="360" r="2244" b="402"><formatting lang="EnglishUnitedStates">The following shall constitute an Additional Termination Event with respect to</formatting></line>
+<line baseline="446" l="751" t="414" r="897" b="455"><formatting lang="EnglishUnitedStates">Party B:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="745" t="512" r="2270" b="777"><region><rect l="745" t="512" r="2270" b="777"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="551" l="752" t="518" r="2264" b="560"><formatting lang="EnglishUnitedStates">(a) The rating issued by S&amp;P or Moody’s with respect to the Debt Securities of</formatting></line>
+<line baseline="604" l="751" t="571" r="2257" b="613"><formatting lang="EnglishUnitedStates">Party B is rated below BBB- in the case of S&amp;P or Baa3 in the case of Moody’s</formatting></line>
+<line baseline="657" l="751" t="624" r="2258" b="666"><formatting lang="EnglishUnitedStates">or (b) S&amp;P or Moody’s ceases to issue a rating with respect to the Debt Securities</formatting></line>
+<line baseline="710" l="751" t="677" r="2264" b="719"><formatting lang="EnglishUnitedStates">of Party B (provided that such rating agency continues to be in the business of</formatting></line>
+<line baseline="762" l="751" t="729" r="1177" b="771"><formatting lang="EnglishUnitedStates">rating Debt Securities).</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="744" t="829" r="2264" b="1084"><region><rect l="744" t="829" r="2264" b="1084"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="868" l="750" t="835" r="2257" b="877"><formatting lang="EnglishUnitedStates">For the purpose of the foregoing Additional Termination Event, the Affected</formatting></line>
+<line baseline="920" l="751" t="887" r="2256" b="929"><formatting lang="EnglishUnitedStates">Party will be Party B and all outstanding Transactions will be deemed to be</formatting></line>
+<line baseline="973" l="750" t="940" r="2258" b="982"><formatting lang="EnglishUnitedStates">Affected Transactions, save for the purpose of calculating the Close-out Amount</formatting></line>
+<line baseline="1025" l="750" t="993" r="2256" b="1035"><formatting lang="EnglishUnitedStates">under Section 6(e)(ii)(2) only, for which purpose Party A and Party B shall both be</formatting></line>
+<line baseline="1078" l="750" t="1045" r="2002" b="1078"><formatting lang="EnglishUnitedStates">Affected Parties and all Transactions shall be Affected Transactions.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="1145" r="2263" b="1515"><region><rect l="593" t="1145" r="2263" b="1515"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1184" l="601" t="1151" r="2257" b="1193"><formatting lang="EnglishUnitedStates">If either S&amp;P or Moody’s ceases to be in the business of rating Debt Securities and such</formatting></line>
+<line baseline="1237" l="600" t="1204" r="2257" b="1246"><formatting lang="EnglishUnitedStates">business is not continued by a successor or assign (the “Discontinued Agency”), Party A</formatting></line>
+<line baseline="1290" l="601" t="1257" r="2257" b="1299"><formatting lang="EnglishUnitedStates">and Party B shall jointly and in good faith (i) select a credit rating agency in substitution</formatting></line>
+<line baseline="1342" l="599" t="1309" r="2256" b="1351"><formatting lang="EnglishUnitedStates">thereof and (ii) agree on the rating level issued by such substitute agency that is</formatting></line>
+<line baseline="1395" l="601" t="1362" r="2257" b="1404"><formatting lang="EnglishUnitedStates">equivalent to the ratings specified herein of the Discontinued Agency, whereupon such</formatting></line>
+<line baseline="1448" l="602" t="1415" r="2256" b="1457"><formatting lang="EnglishUnitedStates">substitute agency and equivalent rating shall replace the Discontinued Agency and the</formatting></line>
+<line baseline="1500" l="601" t="1467" r="1603" b="1509"><formatting lang="EnglishUnitedStates">rating level thereof for the purposes of this Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="295" t="1568" r="873" b="1622"><region><rect l="295" t="1568" r="873" b="1622"/></region>
+<text>
+<par align="Justified">
+<line baseline="1607" l="301" t="1574" r="867" b="1616"><formatting lang="EnglishUnitedStates">Part 2. Tax Representations.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1669" r="505" b="1722"><region><rect l="446" t="1669" r="505" b="1722"/></region>
+<text>
+<par align="Justified">
+<line baseline="1707" l="452" t="1675" r="499" b="1716"><formatting lang="EnglishUnitedStates">(a)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="591" t="1669" r="2251" b="1776"><region><rect l="591" t="1669" r="2251" b="1776"/></region>
+<text>
+<par align="Justified" lineSpacing="1296">
+<line baseline="1708" l="597" t="1675" r="2245" b="1717"><formatting lang="EnglishUnitedStates">Payer Representations. For the purpose of Section 3(e) of this Agreement, Party A and</formatting></line>
+<line baseline="1761" l="601" t="1728" r="1384" b="1770"><formatting lang="EnglishUnitedStates">Party B make the following representation:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="1825" r="2266" b="2498"><region><rect l="594" t="1825" r="2266" b="2498"/></region>
+<text>
+<par lineSpacing="1224">
+<line baseline="1864" l="601" t="1831" r="2259" b="1873"><formatting lang="EnglishUnitedStates">It is not required by any applicable law, as modified by the practice of any relevant</formatting></line>
+<line baseline="1916" l="600" t="1883" r="2260" b="1925"><formatting lang="EnglishUnitedStates">governmental revenue authority, of any Relevant Jurisdiction to make any deduction or</formatting></line>
+<line baseline="1969" l="600" t="1936" r="2260" b="1978"><formatting lang="EnglishUnitedStates">withholding for or on account of any Tax from any payment (other than interest under</formatting></line>
+<line baseline="2022" l="603" t="1989" r="2255" b="2031"><formatting lang="EnglishUnitedStates">Section 9(h) of this Agreement) to be made by it to the other party under this Agreement.</formatting></line>
+<line baseline="2074" l="601" t="2041" r="2256" b="2083"><formatting lang="EnglishUnitedStates">In making this representation, it may rely on (i) the accuracy of any representations made</formatting></line>
+<line baseline="2127" l="600" t="2094" r="2257" b="2136"><formatting lang="EnglishUnitedStates">by the other party pursuant to Section 3(f) of this Agreement, (ii) the satisfaction of the</formatting></line>
+<line baseline="2180" l="601" t="2147" r="2258" b="2189"><formatting lang="EnglishUnitedStates">agreement contained in Section 4(a)(i) or 4(a)(iii) of this Agreement and the accuracy and</formatting></line>
+<line baseline="2233" l="601" t="2200" r="2246" b="2242"><formatting lang="EnglishUnitedStates">effectiveness of any document provided by the other party pursuant to Section 4(a)(i) or</formatting></line>
+<line baseline="2283" l="601" t="2250" r="2258" b="2292"><formatting lang="EnglishUnitedStates">4(a)(iii) of this Agreement and (iii) the satisfaction of the agreement of the other party</formatting></line>
+<line baseline="2333" l="601" t="2300" r="2243" b="2342"><formatting lang="EnglishUnitedStates">contained in Section 4(d) of this Agreement, except that it will not be a breach of this</formatting></line>
+<line baseline="2383" l="601" t="2350" r="2246" b="2392"><formatting lang="EnglishUnitedStates">representation where reliance is placed on clause (ii) above and the other party does not</formatting></line>
+<line baseline="2433" l="601" t="2400" r="2256" b="2442"><formatting lang="EnglishUnitedStates">deliver a form or document under Section 4(a)(iii) by reason of material prejudice to its</formatting></line>
+<line baseline="2483" l="601" t="2450" r="1132" b="2492"><formatting lang="EnglishUnitedStates">legal or commercial position.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2546" r="508" b="2599"><region><rect l="446" t="2546" r="508" b="2599"/></region>
+<text>
+<par align="Justified">
+<line baseline="2584" l="452" t="2552" r="502" b="2593"><formatting lang="EnglishUnitedStates">(b)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="2546" r="2264" b="2808"><region><rect l="594" t="2546" r="2264" b="2808"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="2585" l="612" t="2552" r="2258" b="2594"><formatting lang="EnglishUnitedStates">Payee Representations. For the purposes of Section 3(f) of this Agreement, Party A</formatting></line>
+<line baseline="2638" l="601" t="2605" r="2257" b="2647"><formatting lang="EnglishUnitedStates">represents to Party B that it is a corporation that is the beneficial owner of all payments to</formatting></line>
+<line baseline="2690" l="600" t="2657" r="2245" b="2699"><formatting lang="EnglishUnitedStates">be made to it under this Agreement, it is an “exempt recipient” for purposes of Section</formatting></line>
+<line baseline="2743" l="606" t="2710" r="2244" b="2752"><formatting lang="EnglishUnitedStates">1.6049-4(c) of the United States Treasury Regulations, organized under the laws of the</formatting></line>
+<line baseline="2792" l="603" t="2760" r="1929" b="2802"><formatting lang="EnglishUnitedStates">State of Delaware, and its taxpayer identification number is 59-3682098.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="2857" r="2263" b="2963"><region><rect l="595" t="2857" r="2263" b="2963"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2896" l="601" t="2863" r="2257" b="2905"><formatting lang="EnglishUnitedStates">For the purpose of Section 3(f) of this Agreement, Party B makes the following</formatting></line>
+<line baseline="2948" l="601" t="2915" r="905" b="2957"><formatting lang="EnglishUnitedStates">representations:-</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1301" b="3091"><region><rect l="1247" t="3046" r="1301" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1295" b="3085"><formatting lang="EnglishUnitedStates">31</formatting></line></par>
+</text>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="354" r="2263" b="513"><region><rect l="765" t="354" r="2263" b="407"/><rect l="595" t="407" r="2263" b="513"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="393" l="771" t="360" r="2257" b="402"><formatting lang="EnglishUnitedStates">(A) Party B will identify by prior written notice or in the relevant Confirmation</formatting></line>
+<line baseline="445" l="601" t="413" r="2256" b="455"><formatting lang="EnglishUnitedStates">each Transaction as to which Party B is acting through an Office or agent located in the</formatting></line>
+<line baseline="498" l="600" t="465" r="2027" b="507"><formatting lang="EnglishUnitedStates">United States (including only the States thereof and the District of Columbia).</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="354" r="648" b="407"><region><rect l="596" t="354" r="648" b="407"/></region>
+<text>
+<par align="Justified">
+<line baseline="392" l="602" t="360" r="642" b="401"><formatting lang="EnglishUnitedStates">(i)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="565" r="2265" b="715"><region><rect l="593" t="565" r="2265" b="715"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="604" l="602" t="571" r="2257" b="613"><formatting lang="EnglishUnitedStates">(B) With respect to such Transactions, each payment received or to be received by Party</formatting></line>
+<line baseline="656" l="601" t="623" r="2259" b="665"><formatting lang="EnglishUnitedStates">B in connection with this Agreement will be effectively connected with its conduct of a</formatting></line>
+<line baseline="709" l="601" t="676" r="1290" b="718"><formatting lang="EnglishUnitedStates">trade or business in the United States.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="776" r="660" b="829"><region><rect l="596" t="776" r="660" b="829"/></region>
+<text>
+<par align="Justified">
+<line baseline="814" l="602" t="782" r="654" b="823"><formatting lang="EnglishUnitedStates">(ii)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="776" r="2250" b="879"><region><rect l="743" t="776" r="2250" b="826"/><rect l="596" t="826" r="2250" b="879"/></region>
+<text>
+<par lineSpacing="1176">
+<line baseline="815" l="749" t="782" r="2244" b="824"><formatting lang="EnglishUnitedStates">With respect to Transactions that Party B has not identified pursuant to clause</formatting></line>
+<line baseline="865" l="602" t="815" r="1072" b="873"><formatting lang="EnglishUnitedStates">(b)(i)(A) of Part 2 hereof-</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="931" r="2251" b="1035"><region><rect l="595" t="931" r="2251" b="1035"/></region>
+<text>
+<par align="Justified" lineSpacing="1200">
+<line baseline="969" l="601" t="937" r="2245" b="979"><formatting lang="EnglishUnitedStates">It is a “non-U.S. branch of a foreign person” for purposes of sections 1.1441-4(a)(3)(ii)</formatting></line>
+<line baseline="1020" l="601" t="987" r="1731" b="1029"><formatting lang="EnglishUnitedStates">and 1.6041-4(a)(4) of the United States Treasury Regulations.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="295" t="1138" r="1119" b="1192"><region><rect l="295" t="1138" r="1119" b="1192"/></region>
+<text>
+<par align="Justified">
+<line baseline="1176" l="301" t="1144" r="1113" b="1186"><formatting lang="EnglishUnitedStates">Part 3. Agreement to Deliver Documents.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="445" t="1238" r="2248" b="1342"><region><rect l="445" t="1238" r="2248" b="1342"/></region>
+<text>
+<par align="Justified" lineSpacing="1200">
+<line baseline="1277" l="451" t="1244" r="2242" b="1286"><formatting lang="EnglishUnitedStates">For the purpose of Sections 4(a)(i) and (ii) of this Agreement, each party agrees to deliver the</formatting></line>
+<line baseline="1327" l="451" t="1294" r="1110" b="1336"><formatting lang="EnglishUnitedStates">following documents, as applicable:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1389" r="505" b="1442"><region><rect l="446" t="1389" r="505" b="1442"/></region>
+<text>
+<par align="Justified">
+<line baseline="1427" l="452" t="1395" r="499" b="1436"><formatting lang="EnglishUnitedStates">(a)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1389" r="1635" b="1441"><region><rect l="595" t="1389" r="1635" b="1441"/></region>
+<text>
+<par align="Justified">
+<line baseline="1428" l="601" t="1395" r="1634" b="1437"><formatting lang="EnglishUnitedStates">Tax forms, documents or certificates to be delivered are:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="312" t="1470" r="540" b="1669"><region><rect l="312" t="1470" r="540" b="1669"/></region>
+<text>
+<par align="Center" lineSpacing="1224">
+<line baseline="1508" l="372" t="1476" r="481" b="1517"><formatting lang="EnglishUnitedStates">Party</formatting></line>
+<line baseline="1561" l="318" t="1528" r="534" b="1570"><formatting lang="EnglishUnitedStates">required to</formatting></line>
+<line baseline="1613" l="359" t="1580" r="493" b="1622"><formatting lang="EnglishUnitedStates">deliver</formatting></line>
+<line baseline="1663" l="330" t="1631" r="522" b="1672"><formatting lang="EnglishUnitedStates">document</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1907" t="1573" r="2246" b="1668"><region><rect l="1907" t="1573" r="2246" b="1668"/></region>
+<text>
+<par align="Center" lineSpacing="1200">
+<line baseline="1612" l="1913" t="1579" r="2240" b="1621"><formatting lang="EnglishUnitedStates">Date by which to</formatting></line>
+<line baseline="1662" l="1959" t="1629" r="2196" b="1671"><formatting lang="EnglishUnitedStates">be delivered</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="950" t="1624" r="1503" b="1669"><region><rect l="950" t="1624" r="1503" b="1669"/></region>
+<text>
+<par align="Justified">
+<line baseline="1662" l="955" t="1630" r="1497" b="1672"><formatting lang="EnglishUnitedStates">Form/Document/certificate</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="352" t="1754" r="503" b="1808"><region><rect l="352" t="1754" r="503" b="1808"/></region>
+<text>
+<par align="Justified">
+<line baseline="1793" l="358" t="1760" r="497" b="1802"><formatting lang="EnglishUnitedStates">Party A</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1754" r="1870" b="1914"><region><rect l="595" t="1754" r="1870" b="1914"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="1793" l="601" t="1760" r="1864" b="1802"><formatting lang="EnglishUnitedStates">An executed U.S. Internal Revenue Service Form W-9 (or any</formatting></line>
+<line baseline="1846" l="603" t="1813" r="1863" b="1855"><formatting lang="EnglishUnitedStates">successor form) with respect to any payments received or to be</formatting></line>
+<line baseline="1898" l="602" t="1866" r="1609" b="1908"><formatting lang="EnglishUnitedStates">received by Party A in connection with this Agreement</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1943" t="1754" r="2245" b="1911"><region><rect l="1943" t="1754" r="2245" b="1911"/></region>
+<text>
+<par lineSpacing="1224">
+<line baseline="1793" l="1952" t="1760" r="2106" b="1802"><formatting lang="EnglishUnitedStates">(i) Upon</formatting></line>
+<line baseline="1846" l="1951" t="1813" r="2183" b="1846"><formatting lang="EnglishUnitedStates">execution of</formatting></line>
+<line baseline="1896" l="1951" t="1863" r="2239" b="1905"><formatting lang="EnglishUnitedStates">this Agreement,</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1945" t="1907" r="2022" b="1952"><region><rect l="1945" t="1907" r="2022" b="1952"/></region>
+<text>
+<par align="Justified">
+<line baseline="1946" l="1951" t="1913" r="2016" b="1946"><formatting lang="EnglishUnitedStates">and</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1944" t="2014" r="2252" b="2226"><region><rect l="1944" t="2014" r="2252" b="2226"/></region>
+<text>
+<par lineSpacing="1272">
+<line baseline="2053" l="1952" t="2020" r="2185" b="2062"><formatting lang="EnglishUnitedStates">(ii) promptly</formatting></line>
+<line baseline="2106" l="1950" t="2073" r="2246" b="2115"><formatting lang="EnglishUnitedStates">upon reasonable</formatting></line>
+<line baseline="2158" l="1951" t="2125" r="2151" b="2167"><formatting lang="EnglishUnitedStates">demand by</formatting></line>
+<line baseline="2211" l="1951" t="2179" r="2097" b="2220"><formatting lang="EnglishUnitedStates">Party B.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="2317" r="1858" b="2635"><region><rect l="594" t="2317" r="1858" b="2635"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2356" l="600" t="2323" r="1851" b="2365"><formatting lang="EnglishUnitedStates">With respect to Transactions not identified pursuant to clause</formatting></line>
+<line baseline="2408" l="603" t="2375" r="1850" b="2417"><formatting lang="EnglishUnitedStates">(b)(i)(A) of Part 2, a correct, complete and executed U.S. Internal</formatting></line>
+<line baseline="2460" l="602" t="2428" r="1852" b="2470"><formatting lang="EnglishUnitedStates">Revenue Service Form W-8BEN-E (including a claim of treaty</formatting></line>
+<line baseline="2514" l="601" t="2481" r="1852" b="2523"><formatting lang="EnglishUnitedStates">benefits under Part III), or any successor thereto, including</formatting></line>
+<line baseline="2567" l="602" t="2534" r="1852" b="2576"><formatting lang="EnglishUnitedStates">appropriate attachments, that eliminates U.S. federal withholding</formatting></line>
+<line baseline="2620" l="602" t="2587" r="1835" b="2629"><formatting lang="EnglishUnitedStates">tax and backup withholding tax on payments under this Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1943" t="2317" r="2245" b="2476"><region><rect l="1943" t="2317" r="2245" b="2476"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="2356" l="1952" t="2323" r="2106" b="2365"><formatting lang="EnglishUnitedStates">(i) Upon</formatting></line>
+<line baseline="2408" l="1951" t="2375" r="2183" b="2408"><formatting lang="EnglishUnitedStates">execution of</formatting></line>
+<line baseline="2461" l="1951" t="2428" r="2239" b="2470"><formatting lang="EnglishUnitedStates">this Agreement,</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="352" t="2318" r="499" b="2371"><region><rect l="352" t="2318" r="499" b="2371"/></region>
+<text>
+<par align="Justified">
+<line baseline="2356" l="358" t="2324" r="493" b="2365"><formatting lang="EnglishUnitedStates">Party B</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1945" t="2475" r="2022" b="2520"><region><rect l="1945" t="2475" r="2022" b="2520"/></region>
+<text>
+<par align="Justified">
+<line baseline="2514" l="1951" t="2481" r="2016" b="2514"><formatting lang="EnglishUnitedStates">and</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1944" t="2578" r="2253" b="2790"><region><rect l="1944" t="2578" r="2253" b="2790"/></region>
+<text>
+<par lineSpacing="1272">
+<line baseline="2617" l="1952" t="2584" r="2185" b="2626"><formatting lang="EnglishUnitedStates">(ii) promptly</formatting></line>
+<line baseline="2668" l="1950" t="2635" r="2247" b="2677"><formatting lang="EnglishUnitedStates">upon reasonable</formatting></line>
+<line baseline="2722" l="1951" t="2689" r="2151" b="2731"><formatting lang="EnglishUnitedStates">demand by</formatting></line>
+<line baseline="2775" l="1951" t="2742" r="2100" b="2784"><formatting lang="EnglishUnitedStates">Party A.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1305" b="3091"><region><rect l="1247" t="3046" r="1305" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1299" b="3085"><formatting lang="EnglishUnitedStates">32</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="294" t="1679" r="559" b="1681"><region><rect l="294" t="1679" r="559" b="1681"/></region>
+<separator type="Black" thickness="2"><start x="294" y="1680"/><end x="559" y="1680"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="348" t="1707" r="559" b="1711"><region><rect l="348" t="1707" r="559" b="1711"/></region>
+<separator type="Black" thickness="4"><start x="348" y="1709"/><end x="559" y="1709"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="592" t="1707" r="1865" b="1711"><region><rect l="592" t="1707" r="1865" b="1711"/></region>
+<separator type="Black" thickness="4"><start x="592" y="1709"/><end x="1865" y="1709"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1898" t="1707" r="2258" b="1711"><region><rect l="1898" t="1707" r="2258" b="1711"/></region>
+<separator type="Black" thickness="4"><start x="1898" y="1709"/><end x="2258" y="1709"/>
+</separator>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1943" t="279" r="2245" b="434"><region><rect l="1943" t="279" r="2245" b="434"/></region>
+<text>
+<par lineSpacing="1200">
+<line baseline="318" l="1952" t="285" r="2106" b="327"><formatting lang="EnglishUnitedStates">(i) Upon</formatting></line>
+<line baseline="367" l="1951" t="335" r="2183" b="368"><formatting lang="EnglishUnitedStates">execution of</formatting></line>
+<line baseline="419" l="1949" t="386" r="2239" b="428"><formatting lang="EnglishUnitedStates">this Agreement,</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="281" r="1869" b="546"><region><rect l="594" t="281" r="1869" b="546"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="320" l="606" t="287" r="1862" b="329"><formatting lang="EnglishUnitedStates">With respect to Transactions identified pursuant to clause (b)(i)(A)</formatting></line>
+<line baseline="372" l="602" t="339" r="1862" b="381"><formatting lang="EnglishUnitedStates">of Part 2, a correct, complete and executed U.S. Internal Revenue</formatting></line>
+<line baseline="424" l="604" t="392" r="1863" b="434"><formatting lang="EnglishUnitedStates">Service Form W-8ECI (or any successor thereto), including</formatting></line>
+<line baseline="478" l="602" t="445" r="1863" b="487"><formatting lang="EnglishUnitedStates">appropriate attachments, that eliminates U.S. federal withholding</formatting></line>
+<line baseline="531" l="600" t="498" r="1835" b="540"><formatting lang="EnglishUnitedStates">tax and backup withholding tax on payments under this Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="352" t="282" r="499" b="335"><region><rect l="352" t="282" r="499" b="335"/></region>
+<text>
+<par align="Justified">
+<line baseline="320" l="358" t="287" r="496" b="329"><formatting lang="EnglishUnitedStates">Party B</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1945" t="430" r="2022" b="475"><region><rect l="1945" t="430" r="2022" b="475"/></region>
+<text>
+<par align="Justified">
+<line baseline="469" l="1951" t="436" r="2016" b="469"><formatting lang="EnglishUnitedStates">and</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1944" t="532" r="2253" b="743"><region><rect l="1944" t="532" r="2253" b="743"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="571" l="1964" t="538" r="2196" b="580"><formatting lang="EnglishUnitedStates">(ii) promptly</formatting></line>
+<line baseline="624" l="1950" t="591" r="2247" b="633"><formatting lang="EnglishUnitedStates">upon reasonable</formatting></line>
+<line baseline="676" l="1951" t="643" r="2151" b="685"><formatting lang="EnglishUnitedStates">demand by</formatting></line>
+<line baseline="728" l="1951" t="695" r="2100" b="737"><formatting lang="EnglishUnitedStates">Party A.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="916" r="508" b="969"><region><rect l="446" t="916" r="508" b="969"/></region>
+<text>
+<par align="Justified">
+<line baseline="954" l="452" t="922" r="502" b="963"><formatting lang="EnglishUnitedStates">(b)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="597" t="916" r="1278" b="961"><region><rect l="597" t="916" r="1278" b="961"/></region>
+<text>
+<par align="Justified">
+<line baseline="955" l="601" t="922" r="1277" b="964"><formatting lang="EnglishUnitedStates">Other documents to be delivered are:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="331" t="998" r="533" b="1199"><region><rect l="331" t="998" r="533" b="1199"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="1036" l="378" t="1004" r="486" b="1045"><formatting lang="EnglishUnitedStates">Party</formatting></line>
+<line baseline="1088" l="348" t="1055" r="515" b="1097"><formatting lang="EnglishUnitedStates">required</formatting></line>
+<line baseline="1140" l="339" t="1108" r="523" b="1141"><formatting lang="EnglishUnitedStates">to deliver</formatting></line>
+<line baseline="1193" l="337" t="1161" r="527" b="1193"><formatting lang="EnglishUnitedStates">document</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1938" t="1049" r="2245" b="1209"><region><rect l="1938" t="1049" r="2245" b="1209"/></region>
+<text>
+<par align="Center" lineSpacing="1272">
+<line baseline="1088" l="1981" t="1055" r="2204" b="1097"><formatting lang="EnglishUnitedStates">Covered by</formatting></line>
+<line baseline="1140" l="1977" t="1108" r="2206" b="1149"><formatting lang="EnglishUnitedStates">Section 3(d)</formatting></line>
+<line baseline="1193" l="1944" t="1161" r="2239" b="1203"><formatting lang="EnglishUnitedStates">Representation</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1486" t="1100" r="1784" b="1195"><region><rect l="1486" t="1100" r="1784" b="1195"/></region>
+<text>
+<par align="Justified" lineSpacing="1200">
+<line baseline="1139" l="1496" t="1106" r="1773" b="1148"><formatting lang="EnglishUnitedStates">Date by which</formatting></line>
+<line baseline="1189" l="1492" t="1156" r="1778" b="1189"><formatting lang="EnglishUnitedStates">to be delivered</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="686" t="1154" r="1239" b="1199"><region><rect l="686" t="1154" r="1239" b="1199"/></region>
+<text>
+<par align="Justified">
+<line baseline="1193" l="692" t="1160" r="1233" b="1193"><formatting lang="EnglishUnitedStates">Form/Document/Certificate</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="320" t="1306" r="471" b="1360"><region><rect l="320" t="1306" r="471" b="1360"/></region>
+<text>
+<par align="Justified">
+<line baseline="1345" l="326" t="1312" r="465" b="1354"><formatting lang="EnglishUnitedStates">Party A</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="582" t="1306" r="1326" b="1676"><region><rect l="582" t="1306" r="1326" b="1676"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="1345" l="589" t="1312" r="1281" b="1345"><formatting lang="EnglishUnitedStates">Audited annual consolidated financial</formatting></line>
+<line baseline="1397" l="591" t="1364" r="1129" b="1406"><formatting lang="EnglishUnitedStates">statements of CFI prepared in</formatting></line>
+<line baseline="1450" l="590" t="1417" r="1289" b="1459"><formatting lang="EnglishUnitedStates">accordance with accounting principles</formatting></line>
+<line baseline="1503" l="588" t="1470" r="1143" b="1512"><formatting lang="EnglishUnitedStates">that are generally accepted for</formatting></line>
+<line baseline="1556" l="590" t="1523" r="1320" b="1565"><formatting lang="EnglishUnitedStates">institutions of its type in the jurisdiction</formatting></line>
+<line baseline="1608" l="590" t="1575" r="1219" b="1617"><formatting lang="EnglishUnitedStates">of its organization and certified by</formatting></line>
+<line baseline="1661" l="590" t="1628" r="1173" b="1670"><formatting lang="EnglishUnitedStates">independent public accountants.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1383" t="1306" r="1876" b="1465"><region><rect l="1383" t="1306" r="1876" b="1465"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1345" l="1390" t="1312" r="1870" b="1354"><formatting lang="EnglishUnitedStates">Upon request of the other</formatting></line>
+<line baseline="1397" l="1389" t="1364" r="1868" b="1406"><formatting lang="EnglishUnitedStates">party promptly following</formatting></line>
+<line baseline="1450" l="1390" t="1417" r="1856" b="1459"><formatting lang="EnglishUnitedStates">availability of statements.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1927" t="1306" r="2248" b="1456"><region><rect l="1927" t="1306" r="2248" b="1456"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="1345" l="1933" t="1312" r="2242" b="1352"><formatting lang="EnglishUnitedStates">Yes, as modified</formatting></line>
+<line baseline="1397" l="1934" t="1364" r="2150" b="1406"><formatting lang="EnglishUnitedStates">by Part 5(g)</formatting></line>
+<line baseline="1450" l="1934" t="1417" r="2059" b="1450"><formatting lang="EnglishUnitedStates">hereof.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1383" t="1517" r="1866" b="1781"><region><rect l="1383" t="1517" r="1866" b="1781"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="1555" l="1389" t="1523" r="1693" b="1565"><formatting lang="EnglishUnitedStates">However, public</formatting></line>
+<line baseline="1608" l="1390" t="1575" r="1836" b="1617"><formatting lang="EnglishUnitedStates">availability on Party A’s</formatting></line>
+<line baseline="1661" l="1391" t="1628" r="1860" b="1670"><formatting lang="EnglishUnitedStates">Credit Support Provider’s</formatting></line>
+<line baseline="1713" l="1389" t="1681" r="1807" b="1721"><formatting lang="EnglishUnitedStates">website, www.cfi.com,</formatting></line>
+<line baseline="1766" l="1391" t="1733" r="1833" b="1775"><formatting lang="EnglishUnitedStates">shall constitute delivery.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="320" t="1868" r="471" b="1922"><region><rect l="320" t="1868" r="471" b="1922"/></region>
+<text>
+<par align="Justified">
+<line baseline="1907" l="326" t="1874" r="465" b="1916"><formatting lang="EnglishUnitedStates">Party A</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="583" t="1868" r="1873" b="2183"><region><rect l="583" t="1868" r="1104" b="1918"/><rect l="583" t="1918" r="1873" b="2028"/><rect l="583" t="2028" r="1342" b="2079"/><rect l="583" t="2079" r="1326" b="2183"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1906" l="591" t="1874" r="1098" b="1916"><formatting lang="EnglishUnitedStates">Quarterly unaudited interim</formatting></line>
+<line baseline="1958" l="590" t="1924" r="1867" b="1969"><formatting lang="EnglishUnitedStates">consolidated financial statements of CFI party promptly following</formatting></line>
+<line baseline="2011" l="589" t="1977" r="1856" b="2022"><formatting lang="EnglishUnitedStates">prepared in accordance with accounting availability of statements.</formatting></line>
+<line baseline="2063" l="589" t="2030" r="1335" b="2072"><formatting lang="EnglishUnitedStates">principles that are generally accepted for</formatting></line>
+<line baseline="2116" l="590" t="2083" r="1320" b="2125"><formatting lang="EnglishUnitedStates">institutions of its type in the jurisdiction</formatting></line>
+<line baseline="2167" l="590" t="2135" r="930" b="2177"><formatting lang="EnglishUnitedStates">of its organization.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1383" t="1868" r="1875" b="1922"><region><rect l="1383" t="1868" r="1875" b="1922"/></region>
+<text>
+<par align="Justified">
+<line baseline="1907" l="1389" t="1874" r="1869" b="1916"><formatting lang="EnglishUnitedStates">Upon request of the other</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1926" t="1868" r="2247" b="2019"><region><rect l="1926" t="1868" r="2247" b="2019"/></region>
+<text>
+<par lineSpacing="1272">
+<line baseline="1907" l="1932" t="1874" r="2241" b="1914"><formatting lang="EnglishUnitedStates">Yes, as modified</formatting></line>
+<line baseline="1960" l="1933" t="1927" r="2149" b="1969"><formatting lang="EnglishUnitedStates">by Part 5(g)</formatting></line>
+<line baseline="2013" l="1933" t="1980" r="2059" b="2013"><formatting lang="EnglishUnitedStates">hereof.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1382" t="2079" r="1865" b="2344"><region><rect l="1382" t="2079" r="1865" b="2344"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="2118" l="1388" t="2085" r="1692" b="2127"><formatting lang="EnglishUnitedStates">However, public</formatting></line>
+<line baseline="2171" l="1389" t="2138" r="1835" b="2180"><formatting lang="EnglishUnitedStates">availability on Party A’ s</formatting></line>
+<line baseline="2223" l="1390" t="2190" r="1859" b="2232"><formatting lang="EnglishUnitedStates">Credit Support Provider’s</formatting></line>
+<line baseline="2275" l="1388" t="2243" r="1807" b="2283"><formatting lang="EnglishUnitedStates">website, www.cfi.com.</formatting></line>
+<line baseline="2329" l="1390" t="2296" r="1833" b="2338"><formatting lang="EnglishUnitedStates">shall constitute delivery.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="582" t="2431" r="1322" b="2696"><region><rect l="582" t="2431" r="1322" b="2696"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="2470" l="591" t="2437" r="1168" b="2479"><formatting lang="EnglishUnitedStates">Certified copies of all corporate</formatting></line>
+<line baseline="2522" l="590" t="2489" r="1316" b="2531"><formatting lang="EnglishUnitedStates">authorizations and any other documents</formatting></line>
+<line baseline="2575" l="589" t="2542" r="1187" b="2584"><formatting lang="EnglishUnitedStates">with respect to the authorization,</formatting></line>
+<line baseline="2628" l="590" t="2595" r="1313" b="2637"><formatting lang="EnglishUnitedStates">execution, delivery and performance of</formatting></line>
+<line baseline="2681" l="588" t="2648" r="877" b="2690"><formatting lang="EnglishUnitedStates">this Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1382" t="2431" r="1853" b="2643"><region><rect l="1382" t="2431" r="1853" b="2643"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="2469" l="1390" t="2437" r="1805" b="2479"><formatting lang="EnglishUnitedStates">Upon execution of this</formatting></line>
+<line baseline="2522" l="1389" t="2489" r="1847" b="2531"><formatting lang="EnglishUnitedStates">Agreement and promptly</formatting></line>
+<line baseline="2575" l="1390" t="2542" r="1832" b="2584"><formatting lang="EnglishUnitedStates">following the request of</formatting></line>
+<line baseline="2628" l="1388" t="2595" r="1663" b="2637"><formatting lang="EnglishUnitedStates">the other party.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="320" t="2432" r="467" b="2485"><region><rect l="320" t="2432" r="467" b="2485"/></region>
+<text>
+<par align="Justified">
+<line baseline="2470" l="326" t="2438" r="461" b="2479"><formatting lang="EnglishUnitedStates">Party B</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1932" t="2432" r="2024" b="2476"><region><rect l="1932" t="2432" r="2024" b="2476"/></region>
+<text>
+<par align="Justified">
+<line baseline="2470" l="1938" t="2438" r="2018" b="2470"><formatting lang="EnglishUnitedStates">Yes.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="583" t="2783" r="1313" b="3047"><region><rect l="583" t="2783" r="1313" b="3047"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="2822" l="591" t="2789" r="1227" b="2831"><formatting lang="EnglishUnitedStates">Certified evidence of the authority,</formatting></line>
+<line baseline="2874" l="590" t="2841" r="1307" b="2883"><formatting lang="EnglishUnitedStates">incumbency and specimen signature of</formatting></line>
+<line baseline="2927" l="590" t="2894" r="1274" b="2936"><formatting lang="EnglishUnitedStates">each authorized person executing this</formatting></line>
+<line baseline="2979" l="589" t="2946" r="1281" b="2988"><formatting lang="EnglishUnitedStates">Agreement, any Confirmation and the</formatting></line>
+<line baseline="3032" l="591" t="2999" r="1069" b="3041"><formatting lang="EnglishUnitedStates">Credit Support Document.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1382" t="2783" r="1853" b="2994"><region><rect l="1382" t="2783" r="1853" b="2994"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="2821" l="1390" t="2789" r="1805" b="2831"><formatting lang="EnglishUnitedStates">Upon execution of this</formatting></line>
+<line baseline="2874" l="1389" t="2841" r="1847" b="2883"><formatting lang="EnglishUnitedStates">Agreement and promptly</formatting></line>
+<line baseline="2927" l="1390" t="2894" r="1832" b="2936"><formatting lang="EnglishUnitedStates">following the request of</formatting></line>
+<line baseline="2979" l="1388" t="2946" r="1663" b="2988"><formatting lang="EnglishUnitedStates">the other party.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="320" t="2784" r="467" b="2837"><region><rect l="320" t="2784" r="467" b="2837"/></region>
+<text>
+<par align="Justified">
+<line baseline="2822" l="326" t="2790" r="461" b="2831"><formatting lang="EnglishUnitedStates">Party B</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1932" t="2784" r="2024" b="2828"><region><rect l="1932" t="2784" r="2024" b="2828"/></region>
+<text>
+<par align="Justified">
+<line baseline="2822" l="1938" t="2790" r="2018" b="2822"><formatting lang="EnglishUnitedStates">Yes.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1302" b="3091"><region><rect l="1247" t="3046" r="1302" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1296" b="3085"><formatting lang="EnglishUnitedStates">33</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="319" t="1207" r="545" b="1209"><region><rect l="319" t="1207" r="545" b="1209"/></region>
+<separator type="Black" thickness="2"><start x="319" y="1208"/><end x="545" y="1208"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="582" t="1207" r="1345" b="1209"><region><rect l="582" t="1207" r="1345" b="1209"/></region>
+<separator type="Black" thickness="2"><start x="582" y="1208"/><end x="1345" y="1208"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1382" t="1207" r="1890" b="1209"><region><rect l="1382" t="1207" r="1890" b="1209"/></region>
+<separator type="Black" thickness="2"><start x="1382" y="1208"/><end x="1890" y="1208"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1927" t="1207" r="2257" b="1209"><region><rect l="1927" t="1207" r="2257" b="1209"/></region>
+<separator type="Black" thickness="2"><start x="1927" y="1208"/><end x="2257" y="1208"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1552" t="1717" r="1764" b="1720"><region><rect l="1552" t="1717" r="1764" b="1720"/></region>
+<separator type="Black" thickness="3"><start x="1552" y="1718"/><end x="1764" y="1718"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1551" t="2280" r="1764" b="2283"><region><rect l="1551" t="2280" r="1764" b="2283"/></region>
+<separator type="Black" thickness="3"><start x="1551" y="2281"/><end x="1764" y="2281"/>
+</separator>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="331" t="285" r="533" b="487"><region><rect l="331" t="285" r="533" b="487"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="323" l="378" t="291" r="486" b="332"><formatting lang="EnglishUnitedStates">Party</formatting></line>
+<line baseline="376" l="348" t="343" r="515" b="385"><formatting lang="EnglishUnitedStates">required</formatting></line>
+<line baseline="427" l="339" t="395" r="523" b="428"><formatting lang="EnglishUnitedStates">to deliver</formatting></line>
+<line baseline="481" l="337" t="449" r="527" b="481"><formatting lang="EnglishUnitedStates">document</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1938" t="336" r="2245" b="496"><region><rect l="1938" t="336" r="2245" b="496"/></region>
+<text>
+<par align="Center" lineSpacing="1272">
+<line baseline="375" l="1981" t="342" r="2204" b="384"><formatting lang="EnglishUnitedStates">Covered by</formatting></line>
+<line baseline="427" l="1977" t="395" r="2206" b="436"><formatting lang="EnglishUnitedStates">Section 3(d)</formatting></line>
+<line baseline="480" l="1944" t="448" r="2239" b="490"><formatting lang="EnglishUnitedStates">Representation</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1486" t="388" r="1784" b="483"><region><rect l="1486" t="388" r="1784" b="483"/></region>
+<text>
+<par align="Justified" lineSpacing="1200">
+<line baseline="427" l="1496" t="394" r="1773" b="436"><formatting lang="EnglishUnitedStates">Date by which</formatting></line>
+<line baseline="477" l="1492" t="444" r="1778" b="477"><formatting lang="EnglishUnitedStates">to be delivered</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="686" t="442" r="1239" b="487"><region><rect l="686" t="442" r="1239" b="487"/></region>
+<text>
+<par align="Justified">
+<line baseline="481" l="692" t="448" r="1233" b="481"><formatting lang="EnglishUnitedStates">Form/Document/Certificate</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="582" t="593" r="1316" b="954"><region><rect l="582" t="593" r="1316" b="954"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="632" l="589" t="599" r="1281" b="632"><formatting lang="EnglishUnitedStates">Audited annual consolidated financial</formatting></line>
+<line baseline="685" l="591" t="652" r="1309" b="694"><formatting lang="EnglishUnitedStates">statements prepared in accordance with</formatting></line>
+<line baseline="737" l="590" t="704" r="1310" b="746"><formatting lang="EnglishUnitedStates">accounting principles that are generally</formatting></line>
+<line baseline="790" l="590" t="757" r="1268" b="799"><formatting lang="EnglishUnitedStates">accepted for institutions of its type in</formatting></line>
+<line baseline="842" l="588" t="810" r="1285" b="852"><formatting lang="EnglishUnitedStates">the jurisdiction of its organization and</formatting></line>
+<line baseline="896" l="590" t="863" r="1157" b="905"><formatting lang="EnglishUnitedStates">certified by independent public</formatting></line>
+<line baseline="948" l="590" t="915" r="817" b="957"><formatting lang="EnglishUnitedStates">accountants.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1382" t="593" r="1875" b="752"><region><rect l="1382" t="593" r="1875" b="752"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="632" l="1388" t="599" r="1869" b="641"><formatting lang="EnglishUnitedStates">Upon request of the other</formatting></line>
+<line baseline="685" l="1388" t="652" r="1867" b="694"><formatting lang="EnglishUnitedStates">party promptly following</formatting></line>
+<line baseline="737" l="1389" t="704" r="1856" b="746"><formatting lang="EnglishUnitedStates">availability of statements.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="320" t="594" r="467" b="647"><region><rect l="320" t="594" r="467" b="647"/></region>
+<text>
+<par align="Justified">
+<line baseline="632" l="326" t="600" r="461" b="641"><formatting lang="EnglishUnitedStates">Party B</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1940" t="594" r="2250" b="750"><region><rect l="1940" t="594" r="2250" b="750"/></region>
+<text>
+<par lineSpacing="1224">
+<line baseline="632" l="1946" t="600" r="2078" b="639"><formatting lang="EnglishUnitedStates">Yes, as</formatting></line></par>
+<par align="Justified" lineSpacing="1224">
+<line baseline="685" l="1947" t="652" r="2244" b="685"><formatting lang="EnglishUnitedStates">modified in Part</formatting></line>
+<line baseline="735" l="1949" t="702" r="2155" b="744"><formatting lang="EnglishUnitedStates">5(g) below.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1382" t="804" r="1885" b="1069"><region><rect l="1382" t="804" r="1885" b="1069"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="843" l="1388" t="810" r="1692" b="852"><formatting lang="EnglishUnitedStates">However, public</formatting></line>
+<line baseline="896" l="1389" t="863" r="1833" b="905"><formatting lang="EnglishUnitedStates">availability on Party B’s</formatting></line>
+<line baseline="948" l="1388" t="915" r="1538" b="955"><formatting lang="EnglishUnitedStates">website,</formatting></line></par>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1001" l="1388" t="968" r="1879" b="1010"><formatting lang="EnglishUnitedStates">www .societegenerale .com,</formatting></line>
+<line baseline="1054" l="1390" t="1021" r="1833" b="1063"><formatting lang="EnglishUnitedStates">shall constitute delivery.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="582" t="1157" r="1326" b="1475"><region><rect l="582" t="1157" r="1326" b="1475"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="1196" l="589" t="1163" r="1165" b="1205"><formatting lang="EnglishUnitedStates">Unaudited interim consolidated</formatting></line>
+<line baseline="1249" l="590" t="1216" r="1171" b="1258"><formatting lang="EnglishUnitedStates">financial statements prepared in</formatting></line>
+<line baseline="1302" l="590" t="1269" r="1289" b="1311"><formatting lang="EnglishUnitedStates">accordance with accounting principles</formatting></line>
+<line baseline="1354" l="588" t="1321" r="1143" b="1363"><formatting lang="EnglishUnitedStates">that are generally accepted for</formatting></line>
+<line baseline="1407" l="590" t="1374" r="1320" b="1416"><formatting lang="EnglishUnitedStates">institutions of its type in the jurisdiction</formatting></line>
+<line baseline="1460" l="590" t="1427" r="930" b="1469"><formatting lang="EnglishUnitedStates">of its organization.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1382" t="1157" r="1875" b="1317"><region><rect l="1382" t="1157" r="1875" b="1317"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="1196" l="1388" t="1163" r="1869" b="1205"><formatting lang="EnglishUnitedStates">Upon request of the other</formatting></line>
+<line baseline="1249" l="1388" t="1216" r="1867" b="1258"><formatting lang="EnglishUnitedStates">party promptly following</formatting></line>
+<line baseline="1302" l="1389" t="1269" r="1856" b="1311"><formatting lang="EnglishUnitedStates">availability of statements.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1926" t="1157" r="2247" b="1308"><region><rect l="1926" t="1157" r="2247" b="1308"/></region>
+<text>
+<par lineSpacing="1272">
+<line baseline="1196" l="1932" t="1163" r="2241" b="1203"><formatting lang="EnglishUnitedStates">Yes, as modified</formatting></line>
+<line baseline="1248" l="1934" t="1216" r="2139" b="1258"><formatting lang="EnglishUnitedStates">in Part 5(g)</formatting></line>
+<line baseline="1302" l="1933" t="1269" r="2054" b="1302"><formatting lang="EnglishUnitedStates">below.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="320" t="1158" r="467" b="1211"><region><rect l="320" t="1158" r="467" b="1211"/></region>
+<text>
+<par align="Justified">
+<line baseline="1196" l="326" t="1164" r="461" b="1205"><formatting lang="EnglishUnitedStates">Party B</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1382" t="1368" r="1884" b="1633"><region><rect l="1382" t="1368" r="1884" b="1633"/></region>
+<text>
+<par lineSpacing="1248">
+<line baseline="1407" l="1388" t="1374" r="1692" b="1416"><formatting lang="EnglishUnitedStates">However, public</formatting></line>
+<line baseline="1460" l="1389" t="1427" r="1833" b="1469"><formatting lang="EnglishUnitedStates">availability on Party B’s</formatting></line>
+<line baseline="1512" l="1388" t="1479" r="1538" b="1519"><formatting lang="EnglishUnitedStates">website,</formatting></line></par>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1565" l="1388" t="1532" r="1878" b="1574"><formatting lang="EnglishUnitedStates">www .societegenerale .com,</formatting></line>
+<line baseline="1618" l="1390" t="1585" r="1833" b="1627"><formatting lang="EnglishUnitedStates">shall constitute delivery.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="320" t="1720" r="471" b="1774"><region><rect l="320" t="1720" r="471" b="1774"/></region>
+<text>
+<par align="Justified">
+<line baseline="1759" l="326" t="1726" r="465" b="1768"><formatting lang="EnglishUnitedStates">Party A</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="583" t="1720" r="1295" b="1870"><region><rect l="583" t="1720" r="1295" b="1870"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1759" l="589" t="1726" r="1289" b="1768"><formatting lang="EnglishUnitedStates">Such other documents as either Party</formatting></line>
+<line baseline="1811" l="589" t="1778" r="1289" b="1820"><formatting lang="EnglishUnitedStates">may reasonably request in connection</formatting></line>
+<line baseline="1864" l="589" t="1831" r="1001" b="1873"><formatting lang="EnglishUnitedStates">with each Transaction.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1383" t="1720" r="1819" b="1774"><region><rect l="1383" t="1720" r="1819" b="1774"/></region>
+<text>
+<par align="Justified">
+<line baseline="1759" l="1389" t="1726" r="1813" b="1768"><formatting lang="EnglishUnitedStates">Promptly upon request.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1925" t="1721" r="2017" b="1765"><region><rect l="1925" t="1721" r="2017" b="1765"/></region>
+<text>
+<par align="Justified">
+<line baseline="1759" l="1931" t="1727" r="2011" b="1759"><formatting lang="EnglishUnitedStates">Yes.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="358" t="1772" r="434" b="1817"><region><rect l="358" t="1772" r="434" b="1817"/></region>
+<text>
+<par align="Justified">
+<line baseline="1811" l="364" t="1778" r="428" b="1811"><formatting lang="EnglishUnitedStates">and</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="321" t="1826" r="468" b="1879"><region><rect l="321" t="1826" r="468" b="1879"/></region>
+<text>
+<par align="Justified">
+<line baseline="1864" l="327" t="1832" r="462" b="1873"><formatting lang="EnglishUnitedStates">Party B</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="295" t="2001" r="745" b="2046"><region><rect l="295" t="2001" r="745" b="2046"/></region>
+<text>
+<par align="Justified">
+<line baseline="2040" l="301" t="2007" r="739" b="2040"><formatting lang="EnglishUnitedStates">Part 4. Miscellaneous.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2102" r="505" b="2155"><region><rect l="446" t="2102" r="505" b="2155"/></region>
+<text>
+<par align="Justified">
+<line baseline="2140" l="452" t="2108" r="499" b="2149"><formatting lang="EnglishUnitedStates">(a)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="2102" r="1987" b="2156"><region><rect l="594" t="2102" r="1987" b="2156"/></region>
+<text>
+<par align="Justified">
+<line baseline="2141" l="600" t="2108" r="1981" b="2150"><formatting lang="EnglishUnitedStates">Addresses for Notices. For the purpose of Section 12(a) of this Agreement:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1305" b="3091"><region><rect l="1247" t="3046" r="1305" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1299" b="3085"><formatting lang="EnglishUnitedStates">34</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="319" t="494" r="545" b="496"><region><rect l="319" t="494" r="545" b="496"/></region>
+<separator type="Black" thickness="2"><start x="319" y="495"/><end x="545" y="495"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="582" t="494" r="1345" b="496"><region><rect l="582" t="494" r="1345" b="496"/></region>
+<separator type="Black" thickness="2"><start x="582" y="495"/><end x="1345" y="495"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1927" t="494" r="2257" b="496"><region><rect l="1927" t="494" r="2257" b="496"/></region>
+<separator type="Black" thickness="2"><start x="1927" y="495"/><end x="2257" y="495"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1382" t="545" r="1890" b="547"><region><rect l="1382" t="545" r="1890" b="547"/></region>
+<separator type="Black" thickness="2"><start x="1382" y="546"/><end x="1890" y="546"/>
+</separator>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="1462" r="1591" b="1516"><region><rect l="594" t="1462" r="1591" b="1516"/></region>
+<text>
+<par align="Justified">
+<line baseline="1501" l="600" t="1468" r="1585" b="1510"><formatting lang="EnglishUnitedStates">Address for notices or communications to Party B:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="1563" r="1892" b="1617"><region><rect l="596" t="1563" r="1892" b="1617"/></region>
+<text>
+<par align="Justified">
+<line baseline="1602" l="602" t="1569" r="1886" b="1611"><formatting lang="EnglishUnitedStates">(i) With respect to notices pursuant to Section 13(c) of the Agreement:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1824" r="2270" b="1975"><region><rect l="595" t="1824" r="2270" b="1975"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="1863" l="602" t="1830" r="2264" b="1872"><formatting lang="EnglishUnitedStates">(ii) With respect to all other notices or communications (other than for purposes of</formatting></line>
+<line baseline="1916" l="603" t="1883" r="2259" b="1925"><formatting lang="EnglishUnitedStates">Sections 5 and 6 as indicated below in (b)): as specified in the Confirmation of each</formatting></line>
+<line baseline="1968" l="601" t="1936" r="825" b="1969"><formatting lang="EnglishUnitedStates">Transaction.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2035" r="508" b="2088"><region><rect l="446" t="2035" r="508" b="2088"/></region>
+<text>
+<par align="Justified">
+<line baseline="2073" l="452" t="2041" r="502" b="2082"><formatting lang="EnglishUnitedStates">(b)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="2035" r="1962" b="2089"><region><rect l="595" t="2035" r="1962" b="2089"/></region>
+<text>
+<par align="Justified">
+<line baseline="2074" l="601" t="2041" r="1956" b="2083"><formatting lang="EnglishUnitedStates">Addresses for Notices for Purposes of Sections 5 and 6 of this Agreement:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="2138" r="1613" b="2192"><region><rect l="594" t="2138" r="1613" b="2192"/></region>
+<text>
+<par align="Justified">
+<line baseline="2177" l="600" t="2144" r="1607" b="2186"><formatting lang="EnglishUnitedStates">Address for notices or communications for Party A:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="2240" r="2255" b="2347"><region><rect l="595" t="2240" r="2255" b="2347"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="2279" l="601" t="2246" r="2249" b="2288"><formatting lang="EnglishUnitedStates">In addition to each of the addresses for Party A listed in Part 4(a), above, send a copy of</formatting></line>
+<line baseline="2332" l="601" t="2299" r="1803" b="2341"><formatting lang="EnglishUnitedStates">any notices for purposes of Sections 5 and 6 of this Agreement to:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="2712" r="1612" b="2766"><region><rect l="594" t="2712" r="1612" b="2766"/></region>
+<text>
+<par align="Justified">
+<line baseline="2751" l="600" t="2718" r="1606" b="2760"><formatting lang="EnglishUnitedStates">Address for notices or communications for Party B:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="2814" r="2236" b="2921"><region><rect l="595" t="2814" r="2236" b="2921"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="2853" l="601" t="2820" r="2230" b="2862"><formatting lang="EnglishUnitedStates">In addition to each of the addresses for Party B listed in Part 4(a), above, send a copy of</formatting></line>
+<line baseline="2906" l="601" t="2873" r="1803" b="2915"><formatting lang="EnglishUnitedStates">any notices for purposes of Sections 5 and 6 of this Agreement to:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1303" b="3091"><region><rect l="1247" t="3046" r="1303" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1297" b="3085"><formatting lang="EnglishUnitedStates">35</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="675" t="1711" r="2199" b="1714"><region><rect l="675" t="1711" r="2199" b="1714"/></region>
+<separator type="Black" thickness="3"><start x="675" y="1712"/><end x="2199" y="1712"/>
+</separator>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="303" r="764" b="348"><region><rect l="594" t="303" r="764" b="348"/></region>
+<text>
+<par align="Justified">
+<line baseline="342" l="600" t="309" r="758" b="342"><formatting lang="EnglishUnitedStates">Address:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1044" t="303" r="2054" b="454"><region><rect l="1044" t="303" r="2054" b="454"/></region>
+<text>
+<par align="Justified">
+<line baseline="342" l="1050" t="309" r="2048" b="344"><formatting lang="EnglishUnitedStates">Attention : Head of Risk Department Telephone n°: 33</formatting></line></par>
+<par lineSpacing="1200">
+<line baseline="392" l="1053" t="360" r="1296" b="401"><formatting lang="EnglishUnitedStates">(0)1 5656565</formatting></line></par>
+<par lineSpacing="1200">
+<line baseline="442" l="1052" t="410" r="1521" b="446"><formatting lang="EnglishUnitedStates">Fax n°: 33 (0)1 45555555</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="614" r="885" b="668"><region><rect l="593" t="614" r="885" b="668"/></region>
+<text>
+<par align="Justified">
+<line baseline="653" l="600" t="620" r="879" b="662"><formatting lang="EnglishUnitedStates">With a copy to:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1048" t="718" r="1511" b="763"><region><rect l="1048" t="718" r="1511" b="763"/></region>
+<text>
+<par align="Justified">
+<line baseline="757" l="1054" t="724" r="1505" b="757"><formatting lang="EnglishUnitedStates">Societe Generale Branch</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1046" t="820" r="1624" b="916"><region><rect l="1046" t="820" r="1624" b="916"/></region>
+<text>
+<par align="Justified" lineSpacing="1224">
+<line baseline="859" l="1052" t="826" r="1610" b="868"><formatting lang="EnglishUnitedStates">Telephone No.: 247 45673457</formatting></line>
+<line baseline="910" l="1052" t="877" r="1618" b="910"><formatting lang="EnglishUnitedStates">Facsimile No.: 247 456734500</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="458" t="1076" r="517" b="1129"><region><rect l="458" t="1076" r="517" b="1129"/></region>
+<text>
+<par align="Justified">
+<line baseline="1114" l="464" t="1082" r="511" b="1123"><formatting lang="EnglishUnitedStates">(c)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="592" t="1076" r="1850" b="1130"><region><rect l="592" t="1076" r="1850" b="1130"/></region>
+<text>
+<par align="Justified">
+<line baseline="1115" l="598" t="1082" r="1844" b="1124"><formatting lang="EnglishUnitedStates">Process Agent. For the purpose of Section 13(c) of this Agreement:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1179" r="1593" b="1233"><region><rect l="595" t="1179" r="1593" b="1233"/></region>
+<text>
+<par align="Justified">
+<line baseline="1218" l="600" t="1185" r="1587" b="1227"><formatting lang="EnglishUnitedStates">Party A appoints as its Process Agent: Not applicable</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1280" r="1633" b="1334"><region><rect l="595" t="1280" r="1633" b="1334"/></region>
+<text>
+<par align="Justified">
+<line baseline="1319" l="600" t="1286" r="1627" b="1328"><formatting lang="EnglishUnitedStates">Party B appoints as its Process Agent: Societe Generale</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1306" t="1410" r="1884" b="1506"><region><rect l="1306" t="1410" r="1884" b="1506"/></region>
+<text>
+<par align="Justified" lineSpacing="1224">
+<line baseline="1449" l="1312" t="1416" r="1870" b="1458"><formatting lang="EnglishUnitedStates">Telephone No.: 247 45673457</formatting></line>
+<line baseline="1500" l="1312" t="1467" r="1878" b="1500"><formatting lang="EnglishUnitedStates">Facsimile No.: 247 456734500</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1538" r="508" b="1591"><region><rect l="446" t="1538" r="508" b="1591"/></region>
+<text>
+<par align="Justified">
+<line baseline="1576" l="452" t="1544" r="502" b="1585"><formatting lang="EnglishUnitedStates">(d)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="597" t="1538" r="1897" b="1592"><region><rect l="597" t="1538" r="1897" b="1592"/></region>
+<text>
+<par align="Justified">
+<line baseline="1577" l="603" t="1544" r="1891" b="1586"><formatting lang="EnglishUnitedStates">Offices. The provisions of Section 10(a) will apply to this Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1641" r="505" b="1694"><region><rect l="446" t="1641" r="505" b="1694"/></region>
+<text>
+<par align="Justified">
+<line baseline="1679" l="452" t="1647" r="499" b="1688"><formatting lang="EnglishUnitedStates">(e)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="592" t="1641" r="1883" b="1695"><region><rect l="592" t="1641" r="1883" b="1695"/></region>
+<text>
+<par align="Justified">
+<line baseline="1679" l="598" t="1647" r="1877" b="1689"><formatting lang="EnglishUnitedStates">Multibranch Party. For the purpose of Section 10 of this Agreement:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1743" r="2250" b="1847"><region><rect l="595" t="1743" r="2250" b="1847"/></region>
+<text>
+<par align="Justified" lineSpacing="1200">
+<line baseline="1782" l="601" t="1749" r="2244" b="1791"><formatting lang="EnglishUnitedStates">Party A is not a Multibranch Party and will act solely through its Chicago, IL and St.</formatting></line>
+<line baseline="1831" l="601" t="1799" r="1017" b="1841"><formatting lang="EnglishUnitedStates">Petersburg, FL offices.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1896" r="2252" b="2000"><region><rect l="595" t="1896" r="2252" b="2000"/></region>
+<text>
+<par align="Justified" lineSpacing="1200">
+<line baseline="1935" l="601" t="1902" r="2246" b="1944"><formatting lang="EnglishUnitedStates">Party B is a Multibranch Party and may enter into a Transaction through its Paris head</formatting></line>
+<line baseline="1985" l="602" t="1952" r="1472" b="1994"><formatting lang="EnglishUnitedStates">Office and any of its branch Offices worldwide.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2048" r="500" b="2101"><region><rect l="446" t="2048" r="500" b="2101"/></region>
+<text>
+<par align="Justified">
+<line baseline="2095" l="452" t="2054" r="494" b="2095"><formatting lang="EnglishUnitedStates">(f)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="597" t="2048" r="1133" b="2102"><region><rect l="597" t="2048" r="1133" b="2102"/></region>
+<text>
+<par align="Justified">
+<line baseline="2086" l="601" t="2054" r="1127" b="2096"><formatting lang="EnglishUnitedStates">Calculation Agent. Party A.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2151" r="507" b="2205"><region><rect l="446" t="2151" r="507" b="2205"/></region>
+<text>
+<par align="Justified">
+<line baseline="2189" l="452" t="2157" r="501" b="2199"><formatting lang="EnglishUnitedStates">(g)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="2151" r="1098" b="2205"><region><rect l="596" t="2151" r="1098" b="2205"/></region>
+<text>
+<par align="Justified">
+<line baseline="2189" l="602" t="2157" r="1092" b="2199"><formatting lang="EnglishUnitedStates">Credit Support Document.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1192" t="2151" r="2261" b="2308"><region><rect l="1192" t="2151" r="2261" b="2308"/></region>
+<text>
+<par lineSpacing="1272">
+<line baseline="2190" l="1199" t="2157" r="2050" b="2199"><formatting lang="EnglishUnitedStates">With respect to Party A, the Guarantee of</formatting></line></par>
+<par lineSpacing="1272">
+<line baseline="2240" l="1326" t="2190" r="2255" b="2248"><formatting lang="EnglishUnitedStates">Financial, Inc. (“ CFI” or the “Guarantor”) and the</formatting></line>
+<line baseline="2293" l="1203" t="2260" r="1614" b="2302"><formatting lang="EnglishUnitedStates">Credit Support Annex.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1194" t="2357" r="2138" b="2411"><region><rect l="1194" t="2357" r="2138" b="2411"/></region>
+<text>
+<par align="Justified">
+<line baseline="2396" l="1200" t="2363" r="2132" b="2405"><formatting lang="EnglishUnitedStates">With respect to Party B, the Credit Support Annex.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2459" r="508" b="2512"><region><rect l="446" t="2459" r="508" b="2512"/></region>
+<text>
+<par align="Justified">
+<line baseline="2497" l="452" t="2465" r="502" b="2506"><formatting lang="EnglishUnitedStates">(h)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="597" t="2459" r="1065" b="2513"><region><rect l="597" t="2459" r="1065" b="2513"/></region>
+<text>
+<par align="Justified">
+<line baseline="2497" l="603" t="2465" r="1059" b="2507"><formatting lang="EnglishUnitedStates">Credit Support Provider.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1192" t="2459" r="1920" b="2513"><region><rect l="1192" t="2459" r="1920" b="2513"/></region>
+<text>
+<par align="Justified">
+<line baseline="2498" l="1198" t="2465" r="1914" b="2507"><formatting lang="EnglishUnitedStates">With respect to Party A, the Guarantor.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1194" t="2564" r="1767" b="2618"><region><rect l="1194" t="2564" r="1767" b="2618"/></region>
+<text>
+<par align="Justified">
+<line baseline="2603" l="1200" t="2570" r="1761" b="2612"><formatting lang="EnglishUnitedStates">With respect to Party B, None.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2666" r="498" b="2719"><region><rect l="446" t="2666" r="498" b="2719"/></region>
+<text>
+<par align="Justified">
+<line baseline="2704" l="452" t="2672" r="492" b="2713"><formatting lang="EnglishUnitedStates">(i)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="2666" r="2265" b="2816"><region><rect l="593" t="2666" r="2265" b="2816"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2705" l="600" t="2672" r="2259" b="2714"><formatting lang="EnglishUnitedStates">Governing Law. This Agreement will be governed by and construed in accordance with</formatting></line>
+<line baseline="2758" l="599" t="2725" r="2259" b="2765"><formatting lang="EnglishUnitedStates">the laws of the State of New York, without reference to choice of law doctrine that would</formatting></line>
+<line baseline="2810" l="601" t="2777" r="1136" b="2810"><formatting lang="EnglishUnitedStates">interfere with New York law.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1305" b="3091"><region><rect l="1247" t="3046" r="1305" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1299" b="3085"><formatting lang="EnglishUnitedStates">36</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="1050" t="346" r="1963" b="349"><region><rect l="1050" t="346" r="1963" b="349"/></region>
+<separator type="Black" thickness="3"><start x="1050" y="347"/><end x="1963" y="347"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1050" t="449" r="1311" b="452"><region><rect l="1050" t="449" r="1311" b="452"/></region>
+<separator type="Black" thickness="3"><start x="1050" y="450"/><end x="1311" y="450"/>
+</separator>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="302" r="498" b="356"><region><rect l="446" t="302" r="498" b="356"/></region>
+<text>
+<par align="Justified">
+<line baseline="352" l="452" t="308" r="492" b="350"><formatting lang="EnglishUnitedStates">(j)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="592" t="302" r="2250" b="406"><region><rect l="592" t="302" r="2250" b="406"/></region>
+<text>
+<par align="Justified" lineSpacing="1224">
+<line baseline="341" l="598" t="308" r="2244" b="350"><formatting lang="EnglishUnitedStates">Netting of Payments. For the purpose of Section 2(c) of this Agreement, election shall</formatting></line>
+<line baseline="391" l="600" t="358" r="2116" b="400"><formatting lang="EnglishUnitedStates">be made separately by operations departments for different groups of Transactions.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="455" r="507" b="508"><region><rect l="446" t="455" r="507" b="508"/></region>
+<text>
+<par align="Justified">
+<line baseline="498" l="452" t="461" r="501" b="502"><formatting lang="EnglishUnitedStates">(k)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="599" t="455" r="1660" b="509"><region><rect l="599" t="455" r="1660" b="509"/></region>
+<text>
+<par align="Justified">
+<line baseline="493" l="605" t="461" r="1654" b="503"><formatting lang="EnglishUnitedStates">“Affiliate” will have the meaning specified in Section 14.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="557" r="498" b="610"><region><rect l="446" t="557" r="498" b="610"/></region>
+<text>
+<par align="Justified">
+<line baseline="595" l="452" t="564" r="492" b="606"><formatting lang="EnglishUnitedStates">(l)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="591" t="557" r="1673" b="611"><region><rect l="591" t="557" r="1673" b="611"/></region>
+<text>
+<par align="Justified">
+<line baseline="595" l="597" t="563" r="1667" b="605"><formatting lang="EnglishUnitedStates">Absence of Litigation. For the purpose of Section 3(c):—</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="896" t="661" r="2063" b="763"><region><rect l="896" t="661" r="2063" b="763"/></region>
+<text>
+<par align="Justified" lineSpacing="1200">
+<line baseline="700" l="903" t="667" r="2057" b="709"><formatting lang="EnglishUnitedStates">“Specified Entity” means in relation to Party A, Capital</formatting></line>
+<line baseline="749" l="902" t="717" r="1160" b="759"><formatting lang="EnglishUnitedStates">Financial, Inc.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="745" t="672" r="785" b="706"><region><rect l="745" t="672" r="785" b="706"/></region>
+<text>
+<par align="Justified">
+<line baseline="700" l="751" t="679" r="779" b="701"><formatting lang="EnglishUnitedStates">a.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="744" t="814" r="787" b="859"><region><rect l="744" t="814" r="787" b="859"/></region>
+<text>
+<par align="Justified">
+<line baseline="853" l="750" t="820" r="781" b="853"><formatting lang="EnglishUnitedStates">b.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="897" t="814" r="1896" b="868"><region><rect l="897" t="814" r="1896" b="868"/></region>
+<text>
+<par align="Justified">
+<line baseline="853" l="903" t="820" r="1890" b="862"><formatting lang="EnglishUnitedStates">“Specified Entity” means in relation to Party B, None.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="917" r="519" b="970"><region><rect l="446" t="917" r="519" b="970"/></region>
+<text>
+<par align="Justified">
+<line baseline="958" l="452" t="923" r="513" b="964"><formatting lang="EnglishUnitedStates">(m)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="592" t="917" r="1948" b="971"><region><rect l="592" t="917" r="1948" b="971"/></region>
+<text>
+<par align="Justified">
+<line baseline="956" l="598" t="923" r="1942" b="965"><formatting lang="EnglishUnitedStates">No Agency. The provisions of Section 3(g) will apply to this Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1021" r="508" b="1074"><region><rect l="446" t="1021" r="508" b="1074"/></region>
+<text>
+<par align="Justified">
+<line baseline="1064" l="452" t="1027" r="502" b="1068"><formatting lang="EnglishUnitedStates">(n)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="591" t="1021" r="2249" b="1127"><region><rect l="591" t="1021" r="2249" b="1127"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="1060" l="597" t="1027" r="2243" b="1069"><formatting lang="EnglishUnitedStates">Additional Representations will apply. For the purpose of Section 3 of this Agreement,</formatting></line>
+<line baseline="1112" l="599" t="1079" r="1686" b="1121"><formatting lang="EnglishUnitedStates">the following will constitute Additional Representations:—</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="1175" r="648" b="1228"><region><rect l="596" t="1175" r="648" b="1228"/></region>
+<text>
+<par align="Justified">
+<line baseline="1213" l="602" t="1182" r="642" b="1223"><formatting lang="EnglishUnitedStates">(i)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="743" t="1175" r="2263" b="1387"><region><rect l="743" t="1175" r="2263" b="1387"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="1214" l="749" t="1181" r="2256" b="1223"><formatting lang="EnglishUnitedStates">Relationship Between Parties. Each party will be deemed to represent to the</formatting></line>
+<line baseline="1267" l="751" t="1234" r="2257" b="1277"><formatting lang="EnglishUnitedStates">other party on the date on which it enters into a Transaction that (absent a written</formatting></line>
+<line baseline="1320" l="751" t="1287" r="2256" b="1329"><formatting lang="EnglishUnitedStates">agreement between the parties that expressly imposes affirmative obligations to the</formatting></line>
+<line baseline="1372" l="751" t="1340" r="1298" b="1381"><formatting lang="EnglishUnitedStates">contrary for that Transaction):</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="746" t="1436" r="818" b="1489"><region><rect l="746" t="1436" r="818" b="1489"/></region>
+<text>
+<par align="Justified">
+<line baseline="1474" l="752" t="1443" r="812" b="1484"><formatting lang="EnglishUnitedStates">(A)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="894" t="1436" r="2266" b="2061"><region><rect l="894" t="1436" r="2266" b="1851"/><rect l="894" t="1851" r="2142" b="1911"/><rect l="894" t="1911" r="2265" b="2061"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1475" l="914" t="1442" r="2258" b="1484"><formatting lang="EnglishUnitedStates">Non-Reliance. It is acting for its own account, and it has made its own</formatting></line>
+<line baseline="1528" l="902" t="1495" r="2260" b="1538"><formatting lang="EnglishUnitedStates">independent decisions to enter into that Transaction and as to whether</formatting></line>
+<line baseline="1581" l="900" t="1548" r="2259" b="1590"><formatting lang="EnglishUnitedStates">that Transaction is appropriate or proper for it based upon its own judgment</formatting></line>
+<line baseline="1633" l="902" t="1600" r="2257" b="1643"><formatting lang="EnglishUnitedStates">and upon advice from such advisers as it has deemed necessary. It is</formatting></line>
+<line baseline="1686" l="901" t="1654" r="2257" b="1696"><formatting lang="EnglishUnitedStates">not relying on any communication (written or oral) of the other party as</formatting></line>
+<line baseline="1739" l="902" t="1706" r="2257" b="1746"><formatting lang="EnglishUnitedStates">investment advice or as a recommendation to enter into that Transaction,</formatting></line>
+<line baseline="1791" l="902" t="1758" r="2257" b="1800"><formatting lang="EnglishUnitedStates">it being understood that information and explanations related to the terms</formatting></line>
+<line baseline="1844" l="902" t="1811" r="2259" b="1845"><formatting lang="EnglishUnitedStates">and conditions of a Transaction will not be considered investment</formatting></line>
+<line baseline="1897" l="902" t="1864" r="2136" b="1898"><formatting lang="EnglishUnitedStates">advice or a recommendation to enter into that Transaction.</formatting></line>
+<line baseline="1950" l="902" t="1917" r="2257" b="1960"><formatting lang="EnglishUnitedStates">communication (written or oral) received from the other party will be</formatting></line>
+<line baseline="2002" l="902" t="1969" r="2259" b="2012"><formatting lang="EnglishUnitedStates">deemed to be an assurance or guarantee as to the expected results of that</formatting></line>
+<line baseline="2055" l="902" t="2023" r="1125" b="2056"><formatting lang="EnglishUnitedStates">Transaction.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2197" t="1859" r="2263" b="1903"><region><rect l="2197" t="1859" r="2263" b="1903"/></region>
+<text>
+<par align="Justified">
+<line baseline="1897" l="2203" t="1865" r="2257" b="1898"><formatting lang="EnglishUnitedStates">No</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="746" t="2119" r="815" b="2172"><region><rect l="746" t="2119" r="815" b="2172"/></region>
+<text>
+<par align="Justified">
+<line baseline="2157" l="752" t="2126" r="809" b="2167"><formatting lang="EnglishUnitedStates">(B)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="877" t="2119" r="2265" b="2382"><region><rect l="877" t="2119" r="2265" b="2382"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="2157" l="883" t="2125" r="2258" b="2167"><formatting lang="EnglishUnitedStates">Assessment and Understanding. It is capable of assessing the merits of and</formatting></line>
+<line baseline="2211" l="901" t="2178" r="2259" b="2221"><formatting lang="EnglishUnitedStates">understanding (on its own behalf or through independent</formatting></line>
+<line baseline="2263" l="901" t="2230" r="2257" b="2273"><formatting lang="EnglishUnitedStates">professional advice), and understands and accepts, the terms, conditions</formatting></line>
+<line baseline="2316" l="902" t="2283" r="2258" b="2325"><formatting lang="EnglishUnitedStates">and risks of that Transaction. It is also capable of assuming, and</formatting></line>
+<line baseline="2369" l="902" t="2336" r="1595" b="2376"><formatting lang="EnglishUnitedStates">assumes, the risks of that Transaction.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="746" t="2431" r="815" b="2484"><region><rect l="746" t="2431" r="815" b="2484"/></region>
+<text>
+<par align="Justified">
+<line baseline="2469" l="752" t="2437" r="809" b="2479"><formatting lang="EnglishUnitedStates">(C)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="896" t="2431" r="2263" b="2535"><region><rect l="896" t="2431" r="2263" b="2535"/></region>
+<text>
+<par align="Justified" lineSpacing="1224">
+<line baseline="2469" l="919" t="2437" r="2257" b="2479"><formatting lang="EnglishUnitedStates">Status of Parties. The other party is not acting as a fiduciary for or an</formatting></line>
+<line baseline="2519" l="902" t="2487" r="1669" b="2529"><formatting lang="EnglishUnitedStates">adviser to it in respect of that Transaction.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="2583" r="660" b="2636"><region><rect l="596" t="2583" r="660" b="2636"/></region>
+<text>
+<par align="Justified">
+<line baseline="2621" l="602" t="2590" r="654" b="2631"><formatting lang="EnglishUnitedStates">(ii)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="743" t="2583" r="2269" b="2795"><region><rect l="743" t="2583" r="2269" b="2795"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="2622" l="763" t="2589" r="2263" b="2631"><formatting lang="EnglishUnitedStates">Commodity Exchange Act. Each party represents to the other party on and as of</formatting></line>
+<line baseline="2674" l="749" t="2641" r="2257" b="2675"><formatting lang="EnglishUnitedStates">the date hereof and on each date on which a Transaction is entered into between</formatting></line>
+<line baseline="2727" l="749" t="2694" r="2263" b="2737"><formatting lang="EnglishUnitedStates">them that such party is an “eligible contract participant” within the meaning of</formatting></line>
+<line baseline="2780" l="749" t="2747" r="1313" b="2790"><formatting lang="EnglishUnitedStates">the Commodity Exchange Act.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2842" r="508" b="2895"><region><rect l="446" t="2842" r="508" b="2895"/></region>
+<text>
+<par align="Justified">
+<line baseline="2880" l="452" t="2849" r="502" b="2890"><formatting lang="EnglishUnitedStates">(o)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="592" t="2842" r="2249" b="2946"><region><rect l="592" t="2842" r="2249" b="2946"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2880" l="598" t="2848" r="2243" b="2890"><formatting lang="EnglishUnitedStates">Recording of Conversations. Each party (i) consents to the recording of telephone</formatting></line>
+<line baseline="2931" l="601" t="2898" r="2243" b="2941"><formatting lang="EnglishUnitedStates">conversations between the trading, marketing and other relevant personnel of the parties</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1305" b="3091"><region><rect l="1247" t="3046" r="1305" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1299" b="3085"><formatting lang="EnglishUnitedStates">37</formatting></line></par>
+</text>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="304" r="2264" b="516"><region><rect l="594" t="304" r="2264" b="516"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="342" l="601" t="310" r="2258" b="352"><formatting lang="EnglishUnitedStates">in connection with this Agreement or any potential Transaction, (ii) agrees to obtain any</formatting></line>
+<line baseline="395" l="600" t="362" r="2258" b="404"><formatting lang="EnglishUnitedStates">necessary consent of, and give any necessary notice of such recording to, its relevant</formatting></line>
+<line baseline="448" l="600" t="415" r="2256" b="457"><formatting lang="EnglishUnitedStates">personnel and (iii) agrees, to the extent permitted by applicable law and subject to</formatting></line>
+<line baseline="501" l="601" t="468" r="2180" b="510"><formatting lang="EnglishUnitedStates">applicable defenses, that recordings may be submitted in evidence in any Proceedings.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="295" t="566" r="802" b="611"><region><rect l="295" t="566" r="802" b="611"/></region>
+<text>
+<par align="Justified">
+<line baseline="605" l="301" t="572" r="796" b="605"><formatting lang="EnglishUnitedStates">Part 5. Other Provisions.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="667" r="505" b="720"><region><rect l="446" t="667" r="505" b="720"/></region>
+<text>
+<par align="Justified">
+<line baseline="705" l="452" t="673" r="499" b="714"><formatting lang="EnglishUnitedStates">(a)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="667" r="2262" b="826"><region><rect l="594" t="667" r="2262" b="826"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="706" l="609" t="673" r="2256" b="715"><formatting lang="EnglishUnitedStates">ISDA Definitions. The 2006 ISDA Definitions, as published by the International Swaps</formatting></line>
+<line baseline="759" l="601" t="726" r="2256" b="768"><formatting lang="EnglishUnitedStates">and Derivatives Association, Inc. (the “Definitions”) are incorporated by reference into this</formatting></line>
+<line baseline="811" l="600" t="778" r="1285" b="820"><formatting lang="EnglishUnitedStates">Agreement as if fully set forth herein.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="875" r="508" b="928"><region><rect l="446" t="875" r="508" b="928"/></region>
+<text>
+<par align="Justified">
+<line baseline="913" l="452" t="881" r="502" b="922"><formatting lang="EnglishUnitedStates">(b)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="875" r="2270" b="1078"><region><rect l="593" t="875" r="2270" b="1078"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="913" l="606" t="881" r="2264" b="923"><formatting lang="EnglishUnitedStates">Foreign Account Tax Compliance Act. The following provision shall apply in respect of</formatting></line>
+<line baseline="967" l="599" t="934" r="2259" b="976"><formatting lang="EnglishUnitedStates">the ISDA Master Agreement between the parties (including the Schedule thereto, any Credit</formatting></line>
+<line baseline="1019" l="603" t="986" r="2258" b="1028"><formatting lang="EnglishUnitedStates">Support Annex and each Transaction that has been or will be entered into thereunder) and</formatting></line>
+<line baseline="1072" l="602" t="1039" r="1901" b="1081"><formatting lang="EnglishUnitedStates">shall survive the termination of this Transaction and this Confirmation:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="1139" r="2264" b="1772"><region><rect l="593" t="1139" r="2264" b="1772"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1178" l="602" t="1145" r="2258" b="1187"><formatting lang="EnglishUnitedStates">“Withholding Tax imposed on payments to non-US counterparties under the United</formatting></line></par>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1230" l="603" t="1197" r="2257" b="1238"><formatting lang="EnglishUnitedStates">States Foreign Account Tax Compliance Act. “Tax” as used in Part 2(a) of this Schedule</formatting></line>
+<line baseline="1282" l="602" t="1250" r="2257" b="1292"><formatting lang="EnglishUnitedStates">(Payer Tax Representation) and “Indemnifiable Tax” as defined in Section 14 of this</formatting></line>
+<line baseline="1336" l="600" t="1303" r="2258" b="1345"><formatting lang="EnglishUnitedStates">Agreement shall not include any U.S. federal withholding tax imposed or collected</formatting></line>
+<line baseline="1388" l="600" t="1355" r="2257" b="1397"><formatting lang="EnglishUnitedStates">pursuant to Sections 1471 through 1474 of the U.S. Internal Revenue Code of 1986, as</formatting></line>
+<line baseline="1441" l="601" t="1408" r="2257" b="1450"><formatting lang="EnglishUnitedStates">amended (the “Code”), any current or future regulations or official interpretations</formatting></line>
+<line baseline="1494" l="599" t="1461" r="2257" b="1503"><formatting lang="EnglishUnitedStates">thereof, any agreement entered into pursuant to Section 1471(b) of the Code, or any fiscal</formatting></line>
+<line baseline="1547" l="601" t="1514" r="2257" b="1556"><formatting lang="EnglishUnitedStates">or regulatory legislation, rules or practices adopted pursuant to any intergovernmental</formatting></line>
+<line baseline="1599" l="601" t="1566" r="2257" b="1608"><formatting lang="EnglishUnitedStates">agreement entered into in connection with the implementation of such Sections of the</formatting></line>
+<line baseline="1651" l="602" t="1619" r="2258" b="1661"><formatting lang="EnglishUnitedStates">Code (a &quot;FATCA Withholding Tax&quot;). For the avoidance of doubt, a FATCA Withholding</formatting></line>
+<line baseline="1705" l="601" t="1672" r="2257" b="1714"><formatting lang="EnglishUnitedStates">Tax is a Tax the deduction or withholding of which is required by applicable law for the</formatting></line>
+<line baseline="1757" l="600" t="1724" r="1420" b="1766"><formatting lang="EnglishUnitedStates">purposes of Section 2(d) of this Agreement.”</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1828" r="508" b="1881"><region><rect l="446" t="1828" r="508" b="1881"/></region>
+<text>
+<par align="Justified">
+<line baseline="1866" l="452" t="1834" r="502" b="1875"><formatting lang="EnglishUnitedStates">(b)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="1828" r="2270" b="2199"><region><rect l="594" t="1828" r="2270" b="2199"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1867" l="607" t="1834" r="2260" b="1876"><formatting lang="EnglishUnitedStates">Transfer. Notwithstanding anything to the contrary in Section 7 of the Master</formatting></line>
+<line baseline="1920" l="600" t="1887" r="2258" b="1929"><formatting lang="EnglishUnitedStates">Agreement, Party A may assign its rights and obligations under the Master Agreement, in</formatting></line>
+<line baseline="1973" l="600" t="1940" r="2256" b="1982"><formatting lang="EnglishUnitedStates">whole and not in part, without the consent of Party B: (i) to any Affiliate of Party A,</formatting></line>
+<line baseline="2026" l="601" t="1993" r="2263" b="2035"><formatting lang="EnglishUnitedStates">effective upon delivery to Party B of a guarantee by the Guarantor of the obligations of</formatting></line>
+<line baseline="2078" l="602" t="2045" r="2259" b="2087"><formatting lang="EnglishUnitedStates">such Affiliate under the Master Agreement, such guarantee to be otherwise substantially</formatting></line>
+<line baseline="2131" l="601" t="2098" r="2257" b="2140"><formatting lang="EnglishUnitedStates">identical to the guarantee then effect of the obligations of the transferor; or (ii) to</formatting></line>
+<line baseline="2184" l="600" t="2151" r="1563" b="2193"><formatting lang="EnglishUnitedStates">Guarantor, effective upon notice of such assignment.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2247" r="505" b="2300"><region><rect l="446" t="2247" r="505" b="2300"/></region>
+<text>
+<par align="Justified">
+<line baseline="2285" l="452" t="2253" r="499" b="2294"><formatting lang="EnglishUnitedStates">(c)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="2247" r="2230" b="2301"><region><rect l="593" t="2247" r="2230" b="2301"/></region>
+<text>
+<par align="Justified">
+<line baseline="2285" l="600" t="2253" r="2229" b="2295"><formatting lang="EnglishUnitedStates">Exchange of Confirmations. Section 9(e)(ii) is deleted and replaced with the following:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="2350" r="2270" b="2931"><region><rect l="593" t="2350" r="2264" b="2405"/><rect l="593" t="2405" r="2020" b="2455"/><rect l="593" t="2455" r="2270" b="2931"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2389" l="602" t="2356" r="2258" b="2398"><formatting lang="EnglishUnitedStates">“(ii) The parties intend that they are legally bound by the terms of each Transaction from</formatting></line>
+<line baseline="2441" l="599" t="2408" r="2014" b="2450"><formatting lang="EnglishUnitedStates">the moment they agree to those terms (whether orally or otherwise).</formatting></line></par>
+<par align="Justified" lineSpacing="1248">
+<line baseline="2494" l="601" t="2461" r="2258" b="2503"><formatting lang="EnglishUnitedStates">Transaction entered into hereunder, Party A shall promptly send to Party B a</formatting></line>
+<line baseline="2547" l="602" t="2514" r="2257" b="2556"><formatting lang="EnglishUnitedStates">Confirmation via facsimile transmission or electronic messaging system. Party B agrees</formatting></line>
+<line baseline="2598" l="599" t="2566" r="2257" b="2608"><formatting lang="EnglishUnitedStates">to respond to such Confirmation within three (3) Local Business Days, either confirming</formatting></line>
+<line baseline="2652" l="601" t="2619" r="2258" b="2661"><formatting lang="EnglishUnitedStates">agreement thereto or requesting a correction of any errors contained therein. Failure by</formatting></line>
+<line baseline="2705" l="601" t="2672" r="2263" b="2714"><formatting lang="EnglishUnitedStates">Party B to respond within such period shall not affect the validity or enforceability of</formatting></line>
+<line baseline="2758" l="602" t="2725" r="2258" b="2758"><formatting lang="EnglishUnitedStates">such Transaction and shall be deemed to be an affirmation of the terms contained in such</formatting></line>
+<line baseline="2810" l="602" t="2777" r="2264" b="2819"><formatting lang="EnglishUnitedStates">Confirmation, absent manifest error. The parties agree that any such exchange of</formatting></line>
+<line baseline="2863" l="601" t="2830" r="2257" b="2872"><formatting lang="EnglishUnitedStates">facsimile transmissions or electronic messages shall constitute a Confirmation for all</formatting></line>
+<line baseline="2916" l="600" t="2883" r="988" b="2925"><formatting lang="EnglishUnitedStates">purposes hereunder.”</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2079" t="2402" r="2264" b="2447"><region><rect l="2079" t="2402" r="2264" b="2447"/></region>
+<text>
+<par align="Justified">
+<line baseline="2441" l="2085" t="2408" r="2258" b="2441"><formatting lang="EnglishUnitedStates">For each</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1304" b="3091"><region><rect l="1247" t="3046" r="1304" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1298" b="3085"><formatting lang="EnglishUnitedStates">38</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="620" t="1181" r="2259" b="1185"><region><rect l="620" t="1181" r="2259" b="1185"/></region>
+<separator type="Black" thickness="4"><start x="620" y="1183"/><end x="2259" y="1183"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="600" t="1234" r="1435" b="1238"><region><rect l="600" t="1234" r="1435" b="1238"/></region>
+<separator type="Black" thickness="4"><start x="600" y="1236"/><end x="1435" y="1236"/>
+</separator>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="304" r="508" b="357"><region><rect l="446" t="304" r="508" b="357"/></region>
+<text>
+<par align="Justified">
+<line baseline="349" l="452" t="310" r="502" b="351"><formatting lang="EnglishUnitedStates">(d)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="304" r="2266" b="726"><region><rect l="595" t="304" r="2266" b="726"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="342" l="619" t="310" r="2257" b="352"><formatting lang="EnglishUnitedStates">Scope of Agreement. Any Specified Transaction (other than a repurchase transaction,</formatting></line>
+<line baseline="394" l="601" t="362" r="2259" b="404"><formatting lang="EnglishUnitedStates">reverse repurchase transaction, buy/sell-back transaction, securities lending transaction</formatting></line>
+<line baseline="448" l="601" t="415" r="2258" b="457"><formatting lang="EnglishUnitedStates">and without regard to the phrase “which is not a Transaction under this Agreement but”</formatting></line>
+<line baseline="501" l="601" t="468" r="2258" b="510"><formatting lang="EnglishUnitedStates">in the definition of Specified Transaction) into which the parties have entered or may</formatting></line>
+<line baseline="553" l="601" t="520" r="2257" b="562"><formatting lang="EnglishUnitedStates">enter and in respect of which confirming evidence does not expressly exclude the</formatting></line>
+<line baseline="606" l="601" t="573" r="2258" b="615"><formatting lang="EnglishUnitedStates">application of this Agreement shall be governed by this Agreement, unless such transaction</formatting></line>
+<line baseline="659" l="601" t="626" r="2260" b="668"><formatting lang="EnglishUnitedStates">is subject to another master agreement between the parties in which case such other master</formatting></line>
+<line baseline="711" l="601" t="678" r="1038" b="720"><formatting lang="EnglishUnitedStates">agreement shall govern.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="778" r="505" b="831"><region><rect l="446" t="778" r="505" b="831"/></region>
+<text>
+<par align="Justified">
+<line baseline="816" l="452" t="784" r="499" b="825"><formatting lang="EnglishUnitedStates">(e)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="778" r="2263" b="1043"><region><rect l="593" t="778" r="2263" b="1043"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="816" l="601" t="784" r="2256" b="826"><formatting lang="EnglishUnitedStates">Accuracy of Specified Information. Section 3(d) is hereby amended by adding in the</formatting></line>
+<line baseline="870" l="599" t="837" r="2256" b="879"><formatting lang="EnglishUnitedStates">third line thereof after the word “respect” and before the period the words: “or in the</formatting></line>
+<line baseline="922" l="601" t="889" r="2256" b="931"><formatting lang="EnglishUnitedStates">case of audited or unaudited financial statements, a fair presentation of the financial</formatting></line>
+<line baseline="975" l="601" t="942" r="2257" b="984"><formatting lang="EnglishUnitedStates">condition of the relevant person and in the case of unaudited quarterly financial</formatting></line>
+<line baseline="1028" l="602" t="995" r="1667" b="1037"><formatting lang="EnglishUnitedStates">statements, subject to normal year-end audit adjustments.”</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1092" r="500" b="1145"><region><rect l="446" t="1092" r="500" b="1145"/></region>
+<text>
+<par align="Justified">
+<line baseline="1139" l="452" t="1098" r="494" b="1139"><formatting lang="EnglishUnitedStates">(f)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="1092" r="2269" b="1568"><region><rect l="593" t="1092" r="2269" b="1568"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1131" l="609" t="1098" r="2263" b="1140"><formatting lang="EnglishUnitedStates">Form of ISDA Master Agreement. The parties hereto agree that the text of the body of</formatting></line>
+<line baseline="1184" l="599" t="1151" r="2260" b="1193"><formatting lang="EnglishUnitedStates">this Agreement (to which this Schedule is attached) is intended to be the 2002 ISDA Master</formatting></line>
+<line baseline="1236" l="600" t="1203" r="2257" b="1245"><formatting lang="EnglishUnitedStates">Agreement as published and copyrighted by the International Swaps and Derivatives</formatting></line>
+<line baseline="1289" l="600" t="1256" r="2255" b="1298"><formatting lang="EnglishUnitedStates">Association, Inc. (formerly known as the International Swap Dealers Association, Inc.).</formatting></line>
+<line baseline="1342" l="601" t="1309" r="2257" b="1351"><formatting lang="EnglishUnitedStates">The purpose of this paragraph is to make clear that, while a party may have transcribed the</formatting></line>
+<line baseline="1395" l="601" t="1362" r="2256" b="1404"><formatting lang="EnglishUnitedStates">2002 ISDA Master Agreement, or any portion thereof, onto its computer system for its</formatting></line>
+<line baseline="1447" l="601" t="1414" r="2257" b="1456"><formatting lang="EnglishUnitedStates">convenience, the parties do not intend that the text of the body of this Agreement deviate</formatting></line>
+<line baseline="1499" l="601" t="1467" r="2258" b="1509"><formatting lang="EnglishUnitedStates">from the 2002 ISDA Master Agreement in the event of any error or mistake in such</formatting></line>
+<line baseline="1552" l="599" t="1520" r="1033" b="1562"><formatting lang="EnglishUnitedStates">transcription by a party.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1616" r="507" b="1670"><region><rect l="446" t="1616" r="507" b="1670"/></region>
+<text>
+<par align="Justified">
+<line baseline="1654" l="452" t="1622" r="501" b="1664"><formatting lang="EnglishUnitedStates">(g)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="586" t="1616" r="2263" b="1767"><region><rect l="586" t="1616" r="2263" b="1767"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="1654" l="592" t="1622" r="2256" b="1655"><formatting lang="EnglishUnitedStates">WAIVER OF JURY TRIAL. EACH PARTY IRREVOCABLY WAIVES ITS RIGHT TO</formatting></line>
+<line baseline="1707" l="601" t="1675" r="2257" b="1708"><formatting lang="EnglishUnitedStates">TRIAL BY JURY IN ANY LEGAL PROCEEDING INSTITUTED IN CONNECTION</formatting></line>
+<line baseline="1761" l="599" t="1728" r="1653" b="1761"><formatting lang="EnglishUnitedStates">WITH THIS AGREEMENT OR ANY TRANSACTION.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="1825" r="508" b="1878"><region><rect l="446" t="1825" r="508" b="1878"/></region>
+<text>
+<par align="Justified">
+<line baseline="1863" l="452" t="1831" r="502" b="1872"><formatting lang="EnglishUnitedStates">(h)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="1825" r="2269" b="2300"><region><rect l="593" t="1825" r="2269" b="2300"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="1863" l="615" t="1831" r="2256" b="1873"><formatting lang="EnglishUnitedStates">Severability. If any term, provision, covenant or condition of this Agreement, or the</formatting></line>
+<line baseline="1916" l="601" t="1883" r="2255" b="1925"><formatting lang="EnglishUnitedStates">application thereof to any party or circumstance, shall be held to be invalid or unenforceable</formatting></line>
+<line baseline="1969" l="602" t="1936" r="2257" b="1978"><formatting lang="EnglishUnitedStates">(in whole or in part) for any reason, the remaining terms, provisions, covenants and</formatting></line>
+<line baseline="2022" l="601" t="1989" r="2257" b="2031"><formatting lang="EnglishUnitedStates">conditions shall continue in full force and effect as if this Agreement had been executed</formatting></line>
+<line baseline="2074" l="600" t="2041" r="2256" b="2083"><formatting lang="EnglishUnitedStates">with the invalid or unenforceable portion eliminated, so long as this Agreement as so</formatting></line>
+<line baseline="2127" l="601" t="2094" r="2256" b="2136"><formatting lang="EnglishUnitedStates">modified continues to express, without material change, the original intentions of the</formatting></line>
+<line baseline="2180" l="600" t="2147" r="2263" b="2189"><formatting lang="EnglishUnitedStates">parties as to the subject matter of this Agreement and the deletion of such portion of</formatting></line>
+<line baseline="2233" l="599" t="2200" r="2256" b="2242"><formatting lang="EnglishUnitedStates">this Agreement does not substantially impair the respective benefits or expectations of the</formatting></line>
+<line baseline="2285" l="600" t="2252" r="1068" b="2294"><formatting lang="EnglishUnitedStates">parties to this Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2352" r="498" b="2405"><region><rect l="446" t="2352" r="498" b="2405"/></region>
+<text>
+<par align="Justified">
+<line baseline="2390" l="452" t="2358" r="492" b="2399"><formatting lang="EnglishUnitedStates">(i)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="2352" r="2265" b="2617"><region><rect l="594" t="2352" r="2265" b="2617"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="2390" l="611" t="2358" r="2259" b="2400"><formatting lang="EnglishUnitedStates">Incorporation of the ISDA 2015 Section 871(m) Protocol. Party A and Party B hereby</formatting></line>
+<line baseline="2444" l="601" t="2411" r="2256" b="2453"><formatting lang="EnglishUnitedStates">incorporate by reference the ISDA 2015 Section 871(m) Protocol published by the</formatting></line>
+<line baseline="2496" l="601" t="2463" r="2257" b="2505"><formatting lang="EnglishUnitedStates">International Swaps and Derivatives Association, Inc. on November 2, 2015 and agree</formatting></line>
+<line baseline="2549" l="601" t="2516" r="2257" b="2558"><formatting lang="EnglishUnitedStates">and acknowledge that the amendments and modifications contained therein are made to this</formatting></line>
+<line baseline="2602" l="600" t="2569" r="1188" b="2611"><formatting lang="EnglishUnitedStates">Agreement as if set forth herein.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="2668" r="498" b="2722"><region><rect l="446" t="2668" r="498" b="2722"/></region>
+<text>
+<par align="Justified">
+<line baseline="2716" l="452" t="2674" r="492" b="2716"><formatting lang="EnglishUnitedStates">(j)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="2668" r="2265" b="2880"><region><rect l="594" t="2668" r="2265" b="2880"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="2707" l="606" t="2674" r="2258" b="2716"><formatting lang="EnglishUnitedStates">EMIR FC Representation. Party A represents that it is a Financial Counterparty</formatting></line>
+<line baseline="2760" l="600" t="2727" r="2259" b="2769"><formatting lang="EnglishUnitedStates">pursuant to Article 2(8) of the Regulation (EU) n° 648/2012 of the European Parliament</formatting></line>
+<line baseline="2813" l="601" t="2780" r="2256" b="2822"><formatting lang="EnglishUnitedStates">and of the Council on OTC derivatives, central counterparties and trade repositories (the</formatting></line>
+<line baseline="2865" l="602" t="2832" r="1779" b="2874"><formatting lang="EnglishUnitedStates">so-called “European Market Infrastructure Regulation -EMIR”).</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1247" t="3046" r="1305" b="3091"><region><rect l="1247" t="3046" r="1305" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1253" t="3052" r="1299" b="3085"><formatting lang="EnglishUnitedStates">39</formatting></line></par>
+</text>
+</block>
+</page>
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1872" t="154" r="2256" b="195"><region><rect l="1872" t="154" r="2256" b="195"/></region>
+<text>
+<par align="Justified">
+<line baseline="188" l="1878" t="160" r="2250" b="189"><formatting lang="EnglishUnitedStates">Execution Version</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="304" r="507" b="357"><region><rect l="446" t="304" r="507" b="357"/></region>
+<text>
+<par align="Justified">
+<line baseline="347" l="452" t="310" r="501" b="351"><formatting lang="EnglishUnitedStates">(k)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="591" t="304" r="2265" b="724"><region><rect l="591" t="304" r="2265" b="724"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="342" l="598" t="310" r="2246" b="352"><formatting lang="EnglishUnitedStates">ISDA 2013 EMIR Portfolio Reconciliation, Dispute Resolution and Disclosure</formatting></line>
+<line baseline="393" l="597" t="360" r="2245" b="402"><formatting lang="EnglishUnitedStates">Protocol. The parties agree that the provisions set out in the Attachment to the ISDA</formatting></line>
+<line baseline="446" l="601" t="413" r="2257" b="455"><formatting lang="EnglishUnitedStates">2013 EMIR Portfolio Reconciliation, Dispute Resolution and Disclosure Protocol</formatting></line>
+<line baseline="498" l="600" t="465" r="2255" b="507"><formatting lang="EnglishUnitedStates">published by the International Swaps and Derivatives Association, Inc. on 19 July 2013</formatting></line>
+<line baseline="551" l="602" t="518" r="2258" b="560"><formatting lang="EnglishUnitedStates">(the “Portfolio Reconciliation Protocol”) are hereby deemed to apply to this Agreement</formatting></line>
+<line baseline="604" l="601" t="571" r="2259" b="613"><formatting lang="EnglishUnitedStates">as if the parties had adhered to the Portfolio Reconciliation Protocol without amendment</formatting></line>
+<line baseline="656" l="601" t="623" r="2259" b="656"><formatting lang="EnglishUnitedStates">and as if the references in the Portfolio Reconciliation Protocol to “Covered Master</formatting></line>
+<line baseline="709" l="600" t="676" r="1470" b="718"><formatting lang="EnglishUnitedStates">Agreement” were references to this Agreement.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="446" t="775" r="498" b="828"><region><rect l="446" t="775" r="498" b="828"/></region>
+<text>
+<par align="Justified">
+<line baseline="813" l="452" t="781" r="492" b="822"><formatting lang="EnglishUnitedStates">(l)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="775" r="1272" b="820"><region><rect l="593" t="775" r="1272" b="820"/></region>
+<text>
+<par align="Justified">
+<line baseline="813" l="599" t="781" r="1266" b="814"><formatting lang="EnglishUnitedStates">ISDA Risk Disclosures Documents.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="593" t="880" r="2265" b="1145"><region><rect l="851" t="880" r="2265" b="933"/><rect l="593" t="933" r="2265" b="1145"/></region>
+<text>
+<par align="Justified" lineSpacing="1248">
+<line baseline="919" l="857" t="886" r="2259" b="928"><formatting lang="EnglishUnitedStates">Party B has made certain important information available at</formatting></line>
+<line baseline="971" l="600" t="939" r="2257" b="981"><formatting lang="EnglishUnitedStates">http://swapdisclosure.sgcib.com regarding Transactions that may be entered into from</formatting></line>
+<line baseline="1024" l="600" t="992" r="2258" b="1034"><formatting lang="EnglishUnitedStates">time to time under this Agreement. By entering into this Agreement, Party B hereby</formatting></line>
+<line baseline="1077" l="601" t="1044" r="2257" b="1086"><formatting lang="EnglishUnitedStates">acknowledges that it has reviewed such information and agrees that this Agreement and</formatting></line>
+<line baseline="1129" l="601" t="1097" r="1435" b="1139"><formatting lang="EnglishUnitedStates">each Transaction hereunder is subject thereto.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="880" r="648" b="933"><region><rect l="596" t="880" r="648" b="933"/></region>
+<text>
+<par align="Justified">
+<line baseline="918" l="602" t="886" r="642" b="927"><formatting lang="EnglishUnitedStates">(i)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1197" r="2265" b="1356"><region><rect l="755" t="1197" r="2265" b="1249"/><rect l="595" t="1249" r="2265" b="1356"/></region>
+<text>
+<par align="Justified" lineSpacing="1272">
+<line baseline="1235" l="761" t="1203" r="2259" b="1245"><formatting lang="EnglishUnitedStates">Party B acknowledges receipt of the ISDA General Disclosure Statement for</formatting></line>
+<line baseline="1287" l="602" t="1255" r="2259" b="1297"><formatting lang="EnglishUnitedStates">Transactions and the ISDA Disclosure Annex for Interest Rate Transactions that</formatting></line>
+<line baseline="1341" l="601" t="1308" r="2257" b="1350"><formatting lang="EnglishUnitedStates">accompanied this Agreement, which as of the date of this Agreement are also available</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="596" t="1197" r="660" b="1250"><region><rect l="596" t="1197" r="660" b="1250"/></region>
+<text>
+<par align="Justified">
+<line baseline="1235" l="602" t="1203" r="654" b="1244"><formatting lang="EnglishUnitedStates">(ii)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="595" t="1360" r="648" b="1400"><region><rect l="595" t="1360" r="648" b="1400"/></region>
+<text>
+<par align="Justified">
+<line baseline="1394" l="601" t="1366" r="642" b="1394"><formatting lang="EnglishUnitedStates">at:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="594" t="1406" r="2108" b="1510"><region><rect l="594" t="1406" r="2108" b="1510"/></region>
+<text>
+<par align="Justified">
+<line baseline="1445" l="600" t="1412" r="2102" b="1454"><formatting lang="EnglishUnitedStates">http://www.isda.org/publications/pdf/ISDA.General.Disclosure.Statement.pdf and</formatting></line></par>
+<par>
+<line baseline="1495" l="600" t="1462" r="1720" b="1504"><formatting lang="EnglishUnitedStates">http: //www .isda.org/publications/pdf/ISDA.Rate s .Swaps.pdf.</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="732" t="1602" r="1818" b="1648"><region><rect l="732" t="1602" r="1818" b="1648"/></region>
+<text>
+<par align="Justified">
+<line baseline="1634" l="738" t="1608" r="1812" b="1642"><formatting lang="EnglishUnitedStates">[THE REMAINDER OF THIS PAGE IS INTENTIONALLY BLANK]</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1246" t="3046" r="1305" b="3091"><region><rect l="1246" t="3046" r="1305" b="3091"/></region>
+<text>
+<par align="Justified">
+<line baseline="3085" l="1252" t="3052" r="1299" b="3085"><formatting lang="EnglishUnitedStates">40</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="600" t="976" r="1187" b="980"><region><rect l="600" t="976" r="1187" b="980"/></region>
+<separator type="Black" thickness="4"><start x="600" y="978"/><end x="1187" y="978"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="600" t="1448" r="2026" b="1452"><region><rect l="600" t="1448" r="2026" b="1452"/></region>
+<separator type="Black" thickness="4"><start x="600" y="1450"/><end x="2026" y="1450"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="600" t="1498" r="1713" b="1502"><region><rect l="600" t="1498" r="1713" b="1502"/></region>
+<separator type="Black" thickness="4"><start x="600" y="1500"/><end x="1713" y="1500"/>
+</separator>
+</block>
+</page>
+<page width="2563" height="3313" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="1820" t="304" r="2161" b="337"><region><rect l="1820" t="304" r="2161" b="337"/></region>
+<text>
+<par align="Justified">
+<line baseline="331" l="1826" t="310" r="2155" b="331"><formatting lang="EnglishUnitedStates">EXECUTION VERSION</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="545" t="483" r="2159" b="533"><region><rect l="545" t="483" r="2159" b="533"/></region>
+<text>
+<par align="Justified">
+<line baseline="519" l="551" t="489" r="2153" b="527"><formatting lang="EnglishUnitedStates">IN WITNESS WHEREOF the Parties hereto have affixed their signature hereto as of the date</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="408" t="529" r="652" b="571"><region><rect l="408" t="529" r="652" b="571"/></region>
+<text>
+<par align="Justified">
+<line baseline="564" l="414" t="535" r="646" b="565"><formatting lang="EnglishUnitedStates">written above:</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="409" t="581" r="921" b="677"><region><rect l="409" t="581" r="921" b="677"/></region>
+<text>
+<par align="Justified" lineSpacing="1176">
+<line baseline="614" l="415" t="587" r="915" b="621"><formatting lang="EnglishUnitedStates">CAPITAL SERVICES, INC.</formatting></line>
+<line baseline="663" l="416" t="634" r="562" b="671"><formatting lang="EnglishUnitedStates">(Party A)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1349" t="583" r="1775" b="676"><region><rect l="1349" t="583" r="1775" b="676"/></region>
+<text>
+<par align="Justified" lineSpacing="1080">
+<line baseline="616" l="1355" t="589" r="1769" b="616"><formatting lang="EnglishUnitedStates">SOCIETE GENERALE</formatting></line>
+<line baseline="662" l="1356" t="632" r="1499" b="670"><formatting lang="EnglishUnitedStates">(Party B)</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1259" t="2593" r="1303" b="2636"><region><rect l="1259" t="2593" r="1303" b="2636"/></region>
+<text>
+<par align="Justified">
+<line baseline="2630" l="1265" t="2599" r="1297" b="2630"><formatting lang="EnglishUnitedStates">41</formatting></line></par>
+</text>
+</block>
+</page>
+</document>
